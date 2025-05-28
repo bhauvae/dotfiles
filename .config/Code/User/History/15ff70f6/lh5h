@@ -1,0 +1,34 @@
+#!/bin/bash
+
+# Wallpaper engine
+# swww-daemon --format xrgb &
+hyprpaper &
+
+# Automounter for removable media
+udiskie &
+
+# Pyprland Daemon
+pypr --debug /tmp/pypr.log &
+
+# Bar
+waybar &
+
+# Notification Daemon
+swaync &
+
+# OSD Window
+swayosd-server &
+
+# Idle daemon to screen lock
+hypridle &
+
+# Clipboard
+wl-paste --watch cliphist store &
+
+# Polkit authentication
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+
+
+# Random Wallpaper
+"$HOME"/.config/hypr/scripts/random_wallpaper &
+

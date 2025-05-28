@@ -1,0 +1,7 @@
+2025-05-27 06:55:36.741 [warning] /home/bhavya/.ssh/config: ENOENT: no such file or directory, open '/home/bhavya/.ssh/config'
+2025-05-27 06:55:36.741 [info] [Activation] Extension version: 0.110.0
+2025-05-27 06:55:36.816 [info] [Authentication] Creating hub for .com
+2025-05-27 06:55:36.930 [info] [Activation] Looking for git repository
+2025-05-27 06:55:36.930 [info] [Activation] Found 0 repositories during activation
+2025-05-27 06:55:36.930 [info] [Activation] Git repository found, initializing review manager and pr tree view.
+2025-05-27 06:55:36.931 [info] [GitAPI] Registering git provider

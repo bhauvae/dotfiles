@@ -1,0 +1,41 @@
+{
+    "layer": "top",
+    "position": "top",
+    "mode": "dock",
+    "exclusive": true,
+    "passthrough": false,
+    "gtk-layer-shell": true,
+    "height": 0,
+    "include": [
+    "~/.config/waybar/modules/custom-wf-recorder.jsonc",
+    "~/.config/waybar/modules/custom-updates.jsonc",
+    "~/.config/waybar/modules/custom-music.jsonc",
+    "~/.config/waybar/modules/custom-logo.jsonc",
+    "~/.config/waybar/modules/custom-notifications.jsonc",
+    "~/.config/waybar/modules/custom-weather.jsonc",
+    "~/.config/waybar/modules/hyprland-language.jsonc",
+    "~/.config/waybar/modules/hyprland-workspaces.jsonc",
+    "~/.config/waybar/modules/clock-1.jsonc",
+    "~/.config/waybar/modules/pulseaudio.jsonc",    
+    "~/.config/waybar/modules/hyprland-window.jsonc",    
+    "~/.config/waybar/modules/network.jsonc",
+    "~/.config/waybar/modules/clock-2.jsonc",     
+    "~/.config/waybar/modules/tray.jsonc",
+  ],
+    "modules-left": [
+    "hyprland/workspaces",
+        "custom/music"
+    ],
+    "modules-center": ["hyprland/window"],
+    "modules-right": [
+        "network",
+        "battery",
+        "backlight",
+        "pulseaudio",
+        "clock#cl2",
+        "custom/weather"
+    ],    
+
+
+    
+}

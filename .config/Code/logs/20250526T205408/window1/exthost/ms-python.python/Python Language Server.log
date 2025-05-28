@@ -1,0 +1,30 @@
+2025-05-26 20:56:09.339 [info] (Client) Pylance async client (2025.5.1) started with python extension (2025.6.1)
+2025-05-26 20:56:11.135 [info] [Info  - 8:56:11 PM] (19455) Server root directory: file:///home/bhavya/.vscode/extensions/ms-python.vscode-pylance-2025.5.1/dist
+2025-05-26 20:56:11.136 [info] [Info  - 8:56:11 PM] (19455) Pylance language server 2025.5.1 (pyright version 1.1.400, commit b962ffc2) starting
+2025-05-26 20:56:11.145 [info] [Info  - 8:56:11 PM] (19455) Starting service instance "hypr" for workspace "/home/bhavya/.config/hypr"
+2025-05-26 20:56:11.262 [info] [Info  - 8:56:11 PM] (19455) Setting environmentName for service "hypr": "Python 3.13.3"
+2025-05-26 20:56:11.262 [info] [Info  - 8:56:11 PM] (19455) Setting pythonPath for service "hypr": "/bin/python"
+2025-05-26 20:56:11.263 [info] [Info  - 8:56:11 PM] (19455) No include entries specified; assuming /home/bhavya/.config/hypr
+2025-05-26 20:56:11.264 [info] [Info  - 8:56:11 PM] (19455) Auto-excluding **/node_modules
+2025-05-26 20:56:11.264 [info] [Info  - 8:56:11 PM] (19455) Auto-excluding **/__pycache__
+2025-05-26 20:56:11.265 [info] [Info  - 8:56:11 PM] (19455) Auto-excluding **/.*
+2025-05-26 20:56:11.311 [info] [Info  - 8:56:11 PM] (19455) Assuming Python version 3.13.3.final.0
+2025-05-26 20:56:11.434 [info] [Info  - 8:56:11 PM] (19455) No source files found.
+2025-05-26 20:56:11.465 [info] [Info  - 8:56:11 PM] (19455) Setting environmentName for service "hypr": "Python 3.13.3"
+2025-05-26 20:56:11.465 [info] [Info  - 8:56:11 PM] (19455) Setting pythonPath for service "hypr": "/bin/python"
+2025-05-26 20:56:11.465 [info] [Info  - 8:56:11 PM] (19455) No include entries specified; assuming /home/bhavya/.config/hypr
+2025-05-26 20:56:11.466 [info] [Info  - 8:56:11 PM] (19455) Auto-excluding **/node_modules
+2025-05-26 20:56:11.466 [info] [Info  - 8:56:11 PM] (19455) Auto-excluding **/__pycache__
+2025-05-26 20:56:11.466 [info] [Info  - 8:56:11 PM] (19455) Auto-excluding **/.*
+2025-05-26 20:56:11.510 [info] [Info  - 8:56:11 PM] (19455) Assuming Python version 3.13.3.final.0
+2025-05-26 20:56:11.602 [info] [Info  - 8:56:11 PM] (19455) No source files found.
+2025-05-26 20:56:11.618 [info] [Info  - 8:56:11 PM] (19455) Setting environmentName for service "hypr": "Python 3.13.3"
+2025-05-26 20:56:11.619 [info] [Info  - 8:56:11 PM] (19455) Setting pythonPath for service "hypr": "/bin/python"
+2025-05-26 20:56:11.619 [info] [Info  - 8:56:11 PM] (19455) No include entries specified; assuming /home/bhavya/.config/hypr
+2025-05-26 20:56:11.619 [info] [Info  - 8:56:11 PM] (19455) Auto-excluding **/node_modules
+2025-05-26 20:56:11.619 [info] [Info  - 8:56:11 PM] (19455) Auto-excluding **/__pycache__
+2025-05-26 20:56:11.619 [info] [Info  - 8:56:11 PM] (19455) Auto-excluding **/.*
+2025-05-26 20:56:11.665 [info] [Info  - 8:56:11 PM] (19455) Assuming Python version 3.13.3.final.0
+2025-05-26 20:56:11.759 [info] [Info  - 8:56:11 PM] (19455) No source files found.
+2025-05-26 20:56:12.458 [info] [Info  - 8:56:12 PM] (19455) BG: Priority queue background worker(2) root directory: file:///home/bhavya/.vscode/extensions/ms-python.vscode-pylance-2025.5.1/dist
+2025-05-26 20:56:12.459 [info] [Info  - 8:56:12 PM] (19455) BG: Priority queue background worker(2) started

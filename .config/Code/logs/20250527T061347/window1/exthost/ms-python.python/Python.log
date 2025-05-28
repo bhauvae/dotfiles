@@ -1,0 +1,11 @@
+2025-05-27 06:13:54.503 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-05-27 06:13:54.503 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-05-27 06:13:54.503 [info] Native locator: Refresh started
+2025-05-27 06:13:54.607 [info] > pyenv which python
+2025-05-27 06:13:54.607 [info] cwd: .
+2025-05-27 06:13:54.741 [info] Active interpreter [/home/bhavya/hypr_mine]:  /bin/python
+2025-05-27 06:13:54.743 [info] Native locator: Refresh finished in 274 ms
+2025-05-27 06:13:54.933 [info] Discover tests for workspace name: hypr_mine - uri: /home/bhavya/hypr_mine
+2025-05-27 06:13:57.503 [info] Starting Pylance language server.
+2025-05-27 06:15:04.002 [info] Discover tests for workspace name: hypr_mine - uri: /home/bhavya/hypr_mine/.vscode/settings.json
+2025-05-27 06:15:05.173 [info] Discover tests for workspace name: hypr_mine - uri: /home/bhavya/hypr_mine/.vscode/settings.json

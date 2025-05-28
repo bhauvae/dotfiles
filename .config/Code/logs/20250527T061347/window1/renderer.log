@@ -1,0 +1,14 @@
+2025-05-27 06:13:49.310 [info] Started local extension host with pid 7506.
+2025-05-27 06:13:50.058 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 06:13:50.286 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-05-27 06:13:52.170 [info] Settings Sync: Token updated for the account bhauvae
+2025-05-27 06:13:52.183 [info] Settings Sync: Account status changed from uninitialized to available
+2025-05-27 06:13:52.466 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-27 06:13:52.468 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-27 06:13:52.470 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-27 06:13:52.472 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-27 06:13:52.479 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-27 06:13:52.479 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-27 06:13:52.479 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-27 06:13:52.480 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-27 06:13:57.117 [info] [perf] Render performance baseline is 190ms

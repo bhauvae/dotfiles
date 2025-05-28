@@ -1,0 +1,6 @@
+2025-05-27 06:13:50.010 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 06:13:50.541 [info] Marked extension as removed franneck94.c-cpp-runner-9.4.10
+2025-05-27 06:13:50.541 [info] Marked extension as removed vadimcn.vscode-lldb-1.11.4
+2025-05-27 06:13:50.591 [info] Deleted marked for removal extension from disk franneck94.c-cpp-runner /home/bhavya/.vscode/extensions/franneck94.c-cpp-runner-9.4.10
+2025-05-27 06:13:50.629 [info] Deleted marked for removal extension from disk vadimcn.vscode-lldb /home/bhavya/.vscode/extensions/vadimcn.vscode-lldb-1.11.4
+2025-05-27 06:13:51.845 [info] ComputeTargetPlatform: linux-x64

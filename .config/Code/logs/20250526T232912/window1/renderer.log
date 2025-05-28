@@ -1,0 +1,63 @@
+2025-05-26 23:29:13.701 [error] Error: The editor could not be opened because the file was not found.
+    at wSe.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2163:120185)
+    at async wSe.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2163:119343)
+    at async JHe.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:685:19756)
+    at async JHe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:685:18311)
+    at async JHe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:685:17393)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:797:23342
+2025-05-26 23:29:13.795 [info] Started local extension host with pid 5120.
+2025-05-26 23:29:13.896 [info] ComputeTargetPlatform: linux-x64
+2025-05-26 23:29:14.302 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-05-26 23:29:15.743 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 23:29:15.744 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 23:29:15.744 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 23:29:15.744 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 23:29:15.744 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 23:29:15.744 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 23:29:15.745 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 23:29:15.745 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 23:29:15.882 [info] Settings Sync: Token updated for the account bhauvae
+2025-05-26 23:29:16.008 [info] Settings Sync: Account status changed from uninitialized to available
+2025-05-26 23:29:18.874 [info] Auto updating outdated extensions. vadimcn.vscode-lldb
+2025-05-26 23:29:23.146 [info] [perf] Render performance baseline is 190ms
+2025-05-26 23:29:35.712 [error] Error: The editor could not be opened because the file was not found.
+    at wSe.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2163:120185)
+    at async wSe.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2163:119343)
+    at async JHe.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:685:19756)
+    at async JHe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:685:18311)
+    at async JHe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:685:17393)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:797:23342
+2025-05-26 23:29:37.427 [error] Error: The editor could not be opened because the file was not found.
+    at wSe.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2163:120185)
+    at async wSe.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2163:119343)
+    at async JHe.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:685:19756)
+    at async JHe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:685:18311)
+    at async JHe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:685:17393)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:797:23342
+2025-05-26 23:49:49.573 [info] Settings Sync: Token updated for the account bhauvae
+2025-05-26 23:49:49.575 [info] Settings Sync: Token updated for the account bhauvae
+2025-05-26 23:49:50.585 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-27 03:41:16.356 [info] Started local extension host with pid 180507.
+2025-05-27 03:41:16.473 [error] Canceled: Canceled
+    at new OQs (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:35744)
+    at V0t.U (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:40391)
+    at n.<computed>.r.charCodeAt.n.<computed> (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:37880)
+    at eSs.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:67516)
+    at aqe.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:66226)
+    at UGe.Ib (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:28434)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26855
+    at Array.map (<anonymous>)
+    at UGe.Db (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26843)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26750
+2025-05-27 03:41:16.968 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-27 03:41:16.969 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-27 03:41:16.970 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-27 03:41:16.971 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-27 03:41:16.972 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-27 03:41:16.973 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-27 03:41:16.973 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-27 03:41:16.973 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-27 03:41:17.089 [info] Settings Sync: Token updated for the account bhauvae
+2025-05-27 04:15:49.694 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-27 04:38:32.826 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2025-05-27 06:04:43.427 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

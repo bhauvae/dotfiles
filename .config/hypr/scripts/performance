@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+
+# Extract the value of animations:enabled
+CUR_STATE=$(hyprctl getoption animations:enabled | grep 'int:' | awk '{print $2}')
+
+if [ "$CUR_STATE" = "1" ]; then
+    # Currently normal mode → switch to performance
+    hyprctl --batch "
+        keyword animations:enabled false
+        keyword decoration:drop_shadow false
+        keyword decoration:blur:enabled false
+        keyword general:gaps_in 0
+        keyword general:gaps_out 0
+        keyword general:border_size 1
+        keyword decoration:rounding 0
+    "
+    pkill waybar             # kill bar entirely
+    notify-send "Performance mode"
+else
+    # Currently performance mode → reload original config
+    hyprctl reload           # will re‑apply your conf with animations:true etc.
+    waybar &                 # restart your bar
+    notify-send "Normal mode"
+fi

@@ -1,0 +1,8 @@
+2025-05-26 23:29:14.728 [info] ComputeTargetPlatform: linux-x64
+2025-05-26 23:29:16.223 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 03:41:10.303 [info] Uninstalling extension from the profile: vadimcn.vscode-lldb@1.11.4 vscode-userdata:/home/bhavya/.vscode/extensions/extensions.json
+2025-05-27 03:41:10.303 [info] Uninstalling extension from the profile: franneck94.c-cpp-runner@9.4.10 vscode-userdata:/home/bhavya/.vscode/extensions/extensions.json
+2025-05-27 03:41:10.438 [info] Marked extension as removed vadimcn.vscode-lldb-1.11.4
+2025-05-27 03:41:10.444 [info] Marked extension as removed franneck94.c-cpp-runner-9.4.10
+2025-05-27 03:41:11.543 [info] Successfully uninstalled extension from the profile vadimcn.vscode-lldb@1.11.4 vscode-userdata:/home/bhavya/.vscode/extensions/extensions.json
+2025-05-27 03:41:11.544 [info] Successfully uninstalled extension from the profile franneck94.c-cpp-runner@9.4.10 vscode-userdata:/home/bhavya/.vscode/extensions/extensions.json

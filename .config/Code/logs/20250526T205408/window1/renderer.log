@@ -1,0 +1,33 @@
+2025-05-26 20:54:09.187 [info] Started local extension host with pid 16531.
+2025-05-26 20:54:09.256 [info] ComputeTargetPlatform: linux-x64
+2025-05-26 20:54:09.524 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-05-26 20:54:10.382 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 20:54:10.426 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 20:54:10.426 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 20:54:10.426 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 20:54:10.426 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 20:54:10.427 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 20:54:10.427 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 20:54:10.427 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 20:54:11.060 [info] Settings Sync: Token updated for the account bhauvae
+2025-05-26 20:54:11.072 [info] Settings Sync: Account status changed from uninitialized to available
+2025-05-26 20:54:12.006 [info] [perf] Render performance baseline is 134ms
+2025-05-26 20:54:13.639 [info] Auto updating outdated extensions. ms-python.vscode-python-envs, vadimcn.vscode-lldb
+2025-05-26 20:54:26.164 [info] Auto updating outdated extensions. vadimcn.vscode-lldb
+2025-05-26 20:56:02.671 [info] Started local extension host with pid 18693.
+2025-05-26 20:56:02.721 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-26 20:56:03.113 [info] ComputeTargetPlatform: linux-x64
+2025-05-26 20:56:03.202 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-05-26 20:56:04.144 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 20:56:04.144 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 20:56:04.144 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 20:56:04.144 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 20:56:04.145 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 20:56:04.145 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 20:56:04.145 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 20:56:04.145 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-26 20:56:04.202 [info] Settings Sync: Token updated for the account bhauvae
+2025-05-26 20:56:04.210 [info] Settings Sync: Account status changed from uninitialized to available
+2025-05-26 20:56:05.650 [info] Auto updating outdated extensions. vadimcn.vscode-lldb
+2025-05-26 20:56:05.678 [info] [perf] Render performance baseline is 193ms
+2025-05-26 20:57:25.215 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.

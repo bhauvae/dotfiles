@@ -1,0 +1,3 @@
+[Added Associations]
+text/plain=org.gnome.TextEditor.desktop;
+application/x-shellscript=org.gnome.TextEditor.desktop;

@@ -1,0 +1,170 @@
+2025-05-26 22:48:46.559 [info] Extension host with pid 2242 started
+2025-05-26 22:48:46.560 [info] Skipping acquiring lock for /home/bhavya/.config/Code/User/workspaceStorage/933a48e4d3b1334dca17c42df16f5a00.
+2025-05-26 22:48:46.733 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-26 22:48:46.881 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-26 22:48:46.884 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-05-26 22:48:46.898 [info] ExtensionService#_doActivateExtension danileao.css-variables-autocomplete, startup: true, activationEvent: '*'
+2025-05-26 22:48:46.901 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2025-05-26 22:48:46.903 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2025-05-26 22:48:46.929 [info] ExtensionService#_doActivateExtension IgorSbitnev.error-gutters, startup: true, activationEvent: '*'
+2025-05-26 22:48:46.931 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2025-05-26 22:48:46.944 [info] ExtensionService#_doActivateExtension sporiley.css-auto-prefix, startup: true, activationEvent: '*'
+2025-05-26 22:48:46.945 [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag, startup: true, activationEvent: '*'
+2025-05-26 22:48:46.951 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2025-05-26 22:48:46.952 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2025-05-26 22:48:47.130 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-26 22:48:47.166 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-26 22:48:47.247 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-26 22:48:47.253 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-26 22:48:47.300 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-26 22:48:47.343 [info] ExtensionService#_doActivateExtension ms-edgedevtools.vscode-edge-devtools, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-26 22:48:47.487 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-26 22:48:47.541 [info] Eager extensions activated
+2025-05-26 22:48:47.630 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:47.632 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:47.645 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:47.648 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:47.658 [info] ExtensionService#_doActivateExtension bierner.color-info, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:47.663 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:47.689 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:47.693 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:47.746 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:47.769 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:48.162 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:48.289 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:48.352 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:48.454 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:48.476 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:48.570 [info] ExtensionService#_doActivateExtension HabeebArul.react-component-tree, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:48.611 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:48.640 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:48.721 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:48.726 [info] ExtensionService#_doActivateExtension shardulm94.trailing-spaces, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:48.737 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onStartupFinished', root cause: slightc.pip-manager
+2025-05-26 22:48:48.873 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:48.943 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:48.948 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:48.957 [info] ExtensionService#_doActivateExtension voldemortensen.rainbow-tags, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:48.959 [info] ExtensionService#_doActivateExtension vunguyentuan.vscode-css-variables, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:49.404 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-05-26 22:48:49.660 [info] ExtensionService#_doActivateExtension slightc.pip-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:48:50.098 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-05-26 22:48:50.500 [error] FetchError: request to https://configs.gitkraken.dev/gitlens/product.json failed, reason: getaddrinfo EAI_AGAIN configs.gitkraken.dev
+    at ClientRequest.<anonymous> (/home/bhavya/.vscode/extensions/eamodio.gitlens-17.1.1/dist/gitlens.js:1921:18106)
+    at ClientRequest.emit (node:events:536:35)
+    at emitErrorEvent (node:_http_client:101:11)
+    at TLSSocket.socketErrorListener (node:_http_client:504:5)
+    at TLSSocket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-05-26 22:49:30.341 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-26 22:49:30.386 [error] An error occurred when disposing the subscriptions for extension 'eamodio.gitlens':
+2025-05-26 22:49:30.393 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:120066)
+    at m0.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:8921)
+    at m0.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9017)
+    at Object.dispose (/home/bhavya/.vscode/extensions/eamodio.gitlens-17.1.1/dist/gitlens.js:449:23770)
+    at /home/bhavya/.vscode/extensions/eamodio.gitlens-17.1.1/dist/gitlens.js:726:16074
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/bhavya/.vscode/extensions/eamodio.gitlens-17.1.1/dist/gitlens.js:726:16056)
+    at Er (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:746)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:15046
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1056
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at PJ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:9874
+    at Array.map (<anonymous>)
+    at PJ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:9862)
+    at PJ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:10105)
+    at v2.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:1434)
+    at us (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:5702)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:2249)
+    at MessagePortMain.emit (node:events:524:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-05-26 22:49:30.498 [info] Extension host with pid 2242 exiting with code 0
+2025-05-26 22:49:31.780 [info] Extension host with pid 3568 started
+2025-05-26 22:49:31.780 [info] Skipping acquiring lock for /home/bhavya/.config/Code/User/workspaceStorage/c7758207235481a0ee1375e1c8ec0064.
+2025-05-26 22:49:31.992 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-26 22:49:32.046 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-05-26 22:49:32.048 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-05-26 22:49:32.054 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2025-05-26 22:49:32.055 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2025-05-26 22:49:32.112 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-26 22:49:32.173 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-26 22:49:32.181 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-26 22:49:32.229 [info] Eager extensions activated
+2025-05-26 22:49:32.230 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-26 22:49:32.267 [info] ExtensionService#_doActivateExtension ms-edgedevtools.vscode-edge-devtools, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-26 22:49:32.404 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-26 22:49:32.429 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:32.431 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:32.447 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:32.464 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:32.468 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:32.758 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:32.872 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:32.919 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:32.991 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:33.065 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:33.071 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:34.554 [error] FetchError: request to https://configs.gitkraken.dev/gitlens/product.json failed, reason: getaddrinfo EAI_AGAIN configs.gitkraken.dev
+    at ClientRequest.<anonymous> (/home/bhavya/.vscode/extensions/eamodio.gitlens-17.1.1/dist/gitlens.js:1921:18106)
+    at ClientRequest.emit (node:events:536:35)
+    at emitErrorEvent (node:_http_client:101:11)
+    at TLSSocket.socketErrorListener (node:_http_client:504:5)
+    at TLSSocket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-05-26 22:49:38.777 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-05-26 22:49:38.962 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:39.004 [info] ExtensionService#_doActivateExtension bierner.color-info, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:39.012 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:39.072 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:39.228 [info] ExtensionService#_doActivateExtension danileao.css-variables-autocomplete, startup: false, activationEvent: '*'
+2025-05-26 22:49:39.229 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:39.291 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:39.293 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:39.312 [info] ExtensionService#_doActivateExtension HabeebArul.react-component-tree, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:39.383 [info] ExtensionService#_doActivateExtension IgorSbitnev.error-gutters, startup: false, activationEvent: '*'
+2025-05-26 22:49:39.385 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:39.440 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2025-05-26 22:49:39.461 [info] ExtensionService#_doActivateExtension shardulm94.trailing-spaces, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:39.476 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onStartupFinished', root cause: slightc.pip-manager
+2025-05-26 22:49:39.764 [info] ExtensionService#_doActivateExtension sporiley.css-auto-prefix, startup: false, activationEvent: '*'
+2025-05-26 22:49:39.767 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:39.775 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:39.794 [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag, startup: false, activationEvent: '*'
+2025-05-26 22:49:39.802 [info] ExtensionService#_doActivateExtension voldemortensen.rainbow-tags, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:39.804 [info] ExtensionService#_doActivateExtension vunguyentuan.vscode-css-variables, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:39.856 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: false, activationEvent: '*'
+2025-05-26 22:49:39.858 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: false, activationEvent: '*'
+2025-05-26 22:49:40.274 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-05-26 22:49:40.643 [info] ExtensionService#_doActivateExtension slightc.pip-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 22:49:40.845 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-05-26 23:12:02.679 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-26 23:12:02.737 [error] An error occurred when disposing the subscriptions for extension 'eamodio.gitlens':
+2025-05-26 23:12:02.765 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:120066)
+    at m0.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:8921)
+    at m0.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9017)
+    at Object.dispose (/home/bhavya/.vscode/extensions/eamodio.gitlens-17.1.1/dist/gitlens.js:449:23770)
+    at /home/bhavya/.vscode/extensions/eamodio.gitlens-17.1.1/dist/gitlens.js:726:16074
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/bhavya/.vscode/extensions/eamodio.gitlens-17.1.1/dist/gitlens.js:726:16056)
+    at Er (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:746)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:15046
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1056
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at PJ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:9874
+    at Array.map (<anonymous>)
+    at PJ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:9862)
+    at PJ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:10105)
+    at v2.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:1434)
+    at us (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:5702)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:2249)
+    at MessagePortMain.emit (node:events:524:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-05-26 23:12:02.869 [info] Extension host with pid 3568 exiting with code 0

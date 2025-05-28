@@ -1,0 +1,45 @@
+2025-05-27 06:24:45.797 [info] [2025-05-27 00:54:45.642] [         41ms] [/home/bhavya/.config/hypr] git rev-parse --show-toplevel • FAILED
+2025-05-27 06:24:45.797 [info] 
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2025-05-27 06:25:21.127 [info] [2025-05-27 00:55:21.127] [         18ms] [/home/bhavya/.config/hypr/conf] git rev-parse --show-toplevel • FAILED
+2025-05-27 06:25:21.127 [info] 
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2025-05-27 06:29:35.021 [info] [2025-05-27 00:59:35.021] [         18ms] [/home/bhavya/.config/hypr/conf] git rev-parse --show-toplevel • FAILED
+2025-05-27 06:29:35.021 [info] 
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2025-05-27 06:36:30.970 [info] [2025-05-27 01:06:30.970] [         22ms] [/home/bhavya/.config/hypr/scripts/wallpaper] git rev-parse --show-toplevel • FAILED
+2025-05-27 06:36:30.970 [info] 
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2025-05-27 06:37:18.402 [info] [2025-05-27 01:07:18.402] [         20ms] [/home/bhavya/.config/hypr/scripts] git rev-parse --show-toplevel • FAILED
+2025-05-27 06:37:18.402 [info] 
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2025-05-27 06:41:36.999 [info] [2025-05-27 01:11:36.999] [         17ms] [/home/bhavya/.config/hypr/scripts] git rev-parse --show-toplevel • FAILED
+2025-05-27 06:41:36.999 [info] 
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2025-05-27 06:44:05.906 [info] [2025-05-27 01:14:05.906] [         21ms] [/home/bhavya/.config/hypr/scripts/screenshot] git rev-parse --show-toplevel • FAILED
+2025-05-27 06:44:05.906 [info] 
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2025-05-27 06:44:15.203 [info] [2025-05-27 01:14:15.203] [         19ms] [/home/bhavya/.config/hypr/scripts/screenshot] git rev-parse --show-toplevel • FAILED
+2025-05-27 06:44:15.203 [info] 
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2025-05-27 06:53:21.358 [info] [2025-05-27 01:23:21.358] [         18ms] [/home/bhavya/.config/hypr/scripts] git rev-parse --show-toplevel • FAILED
+2025-05-27 06:53:21.358 [info] 
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+

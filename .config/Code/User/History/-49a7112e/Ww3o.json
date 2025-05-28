@@ -1,0 +1,167 @@
+{
+  "[python]": {
+    "editor.formatOnType": true,
+  },
+  "cmake.configureOnOpen": true,
+  "code-runner.runInTerminal": true,
+  "files.autoSave": "afterDelay",
+  "editor.inlineSuggest.enabled": true,
+  "code-runner.executorMap": {
+    "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+    "cpp": "cd $dir && g++ -std=c++20 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+    "python": "python -u",
+    "powershell": "powershell -ExecutionPolicy ByPass -File",
+    "bat": "cmd /c",
+    "shellscript": "bash",
+    "csharp": "scriptcs",
+    "rust": "cd $dir && rustc $fileName && $dir$fileNameWithoutExt",
+  },
+  "workbench.startupEditor": "none",
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "python": false
+  },
+  "explorer.confirmDelete": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "terminal.integrated.defaultProfile.windows": "PowerShell 7",
+  "code-runner.defaultLanguage": "C++",
+  "code-runner.fileDirectoryAsCwd": true,
+  "code-runner.saveFileBeforeRun": true,
+  "python.languageServer": "Pylance",
+  "editor.formatOnSave": true,
+  "cSpell.userWords": [
+    "bhauvae",
+    "bhavya",
+    "pycache",
+    "venv"
+  ],
+  "liveServer.settings.CustomBrowser": "firefox",
+  "pip-manager.source": "pypi",
+  "ipython.CellTag": "# $$",
+  "jupyter.interactiveWindow.creationMode": "perFile",
+  "explorer.confirmDragAndDrop": false,
+  "jupyter.askForKernelRestart": false,
+  "git.openRepositoryInParentFolders": "never",
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "projectManager.git.baseFolders": [
+    ""
+  ],
+  "editor.lightbulb.enabled": "onCode",
+  "github.copilot.advanced": {},
+  "inlineChat.mode": "preview",
+  "intellicodeCompletions.runAlongsideCopilot": true,
+  "inlineChat.finishOnType": true,
+  "git.enableSmartCommit": true,
+  "cmake.showOptionsMovedNotification": false,
+  "git.ignoreRebaseWarning": true,
+  "extensions.experimental.affinity": {
+    "asvetliakov.vscode-neovim": 1
+  },
+  "workbench.activityBar.location": "top",
+  "workbench.iconTheme": "catppuccin-mocha",
+  "python.analysis.autoFormatStrings": true,
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.completeFunctionParens": true,
+  "python.analysis.inlayHints.callArgumentNames": "partial",
+  "python.analysis.inlayHints.pytestParameters": true,
+  "autoDocstring.includeExtendedSummary": true,
+  "autoDocstring.includeName": true,
+  "autoDocstring.startOnNewLine": true,
+  "pythonIndent.trimLinesWithOnlyWhitespace": true,
+  "vscode-neovim.neovimExecutablePaths.win32": "",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "workbench.sideBar.location": "right",
+  "explorer.fileNesting.patterns": {
+    "*.ts": "${capture}.js",
+    "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+    "*.jsx": "${capture}.js",
+    "*.tsx": "${capture}.ts",
+    "tsconfig.json": "tsconfig.*.json",
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb",
+    "*.sqlite": "${capture}.${extname}-*",
+    "*.db": "${capture}.${extname}-*",
+    "*.sqlite3": "${capture}.${extname}-*",
+    "*.db3": "${capture}.${extname}-*",
+    "*.sdb": "${capture}.${extname}-*",
+    "*.s3db": "${capture}.${extname}-*"
+  },
+  "terminal.integrated.profiles.windows": {
+    "Git Bash": {
+      "source": "Git Bash"
+    },
+    "PowerShell 7": {
+      "path": "C:\\Program Files\\PowerShell\\7\\pwsh.exe"
+    }
+  },
+  "terminal.explorerKind": "external",
+  "notebook.lineNumbers": "on",
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.enableImages": true,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.formatOnPaste": true,
+  "workbench.preferredDarkColorTheme": "Catppuccin Mocha",
+  "workbench.tips.enabled": false,
+  "terminal.integrated.fontWeight": "normal",
+  "vscode-neovim.useWSL": true,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.external.windowsExec": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "vscode-pydata-viewer.pythonPath": "/venv/bin/python3",
+  "lldb.suppressUpdateNotifications": true,
+  "manim-sideview.previewLooping": false,
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "github.copilot.selectedCompletionModel": "",
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.minimap.enabled": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.linkedEditing": true,
+  "remote.SSH.logLevel": "trace",
+  "remote.SSH.showLoginTerminal": true,
+  "remote.SSH.configFile": "C:\\Users\\bhavya\\.ssh\\config",
+  "remote.SSH.remotePlatform": {
+    "video_automation": "linux",
+    "video-generation": "linux",
+    "video-creation.southamerica-east1-c.red-planet-459001-d2": "linux"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editor.empty.hint": "hidden",
+  "editor.unicodeHighlight.includeStrings": false,
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact",
+    "vue-html": "html",
+    "vue": "html",
+    "razor": "html",
+    "plaintext": "pug",
+    "django-html": "html"
+  },
+  "chat.sendElementsToChat.attachCSS": false,
+  "chat.sendElementsToChat.attachImages": false,
+  "chat.sendElementsToChat.enabled": false,
+  "python.defaultInterpreterPath": "/bin/python",
+  "security.workspace.trust.untrustedFiles": "open",
+  "chat.commandCenter.enabled": false,
+  "workbench.navigationControl.enabled": false,
+  "workbench.layoutControl.enabled": false,
+  "window.customTitleBarVisibility": "windowed",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

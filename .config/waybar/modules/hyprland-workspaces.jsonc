@@ -1,0 +1,13 @@
+{
+  "hyprland/workspaces": {
+    "disable-scroll": true,
+    "active-only": false,
+    "all-outputs": false,
+    "enable-bar-scroll": true,
+    "format": "{}",    
+    "on-scroll-up": "hyprctl dispatch workspace r-1",
+    "on-scroll-down": "hyprctl dispatch workspace r+1",
+    "on-click": "activate",
+    "sort-by-number": true,
+  },
+}

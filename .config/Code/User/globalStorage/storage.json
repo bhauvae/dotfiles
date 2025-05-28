@@ -1,0 +1,97 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "7e947851f0e3ba4c83a0cac448eb219c0c7f63e20c23126fdf5ab2ae15547421",
+    "telemetry.devDeviceId": "0e539fbf-dd53-4f50-8140-b3f6033fa7d0",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/bhavya/.config/hypr"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/bhavya/.config": "__default__profile__",
+            "file:///home/bhavya/.config/waybar": "__default__profile__",
+            "file:///home/bhavya/.config/hypr": "__default__profile__",
+            "file:///home/bhavya/hypr_mine": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e2e",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cdd6f4",
+            "background": "#1e1e2e",
+            "editorBackground": "#1e1e2e",
+            "titleBarBackground": "#11111b",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#11111b",
+            "activityBarBorder": "rgba(0, 0, 0, 0)",
+            "sideBarBackground": "#181825",
+            "sideBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarBackground": "#11111b",
+            "statusBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarNoFolderBackground": "#11111b",
+            "windowBorder": "rgba(0, 0, 0, 0)"
+        },
+        "layoutInfo": {
+            "sideBarSide": "right",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 218,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/bhavya/.config/hypr",
+            "backupPath": "/home/bhavya/.config/Code/Backups/5dc987dae666cca7a6872a87794ff6cf",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1200
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 218,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "2fc3a4b27b3de2094ea2c4498cbb2ec4": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "fc482e37de42be34a4459d147153574f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "933a48e4d3b1334dca17c42df16f5a00": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "c7758207235481a0ee1375e1c8ec0064": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "753f57c7718971eafdaa239f15ee5ff3": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}
