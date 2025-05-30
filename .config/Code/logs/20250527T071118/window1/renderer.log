@@ -1,3 +1,0 @@
-2025-05-27 07:11:19.159 [info] Started local extension host with pid 42424.
-2025-05-27 07:11:19.253 [info] ComputeTargetPlatform: linux-x64
-2025-05-27 07:11:19.791 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.

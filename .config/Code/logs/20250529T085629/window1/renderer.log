@@ -1,0 +1,15 @@
+2025-05-29 08:56:31.538 [info] Started local extension host with pid 7369.
+2025-05-29 08:56:31.739 [info] ComputeTargetPlatform: linux-x64
+2025-05-29 08:56:32.781 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-05-29 08:56:36.495 [info] [perf] Render performance baseline is 182ms
+2025-05-29 08:56:37.301 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-29 08:56:37.302 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-29 08:56:37.307 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-29 08:56:37.311 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-29 08:56:37.313 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-29 08:56:37.314 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-29 08:56:37.314 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-29 08:56:37.315 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-29 08:56:37.655 [info] Auto updating outdated extensions. ms-python.vscode-python-envs
+2025-05-29 08:56:38.176 [info] Settings Sync: Token updated for the account bhauvae
+2025-05-29 08:56:38.181 [info] Settings Sync: Account status changed from uninitialized to available

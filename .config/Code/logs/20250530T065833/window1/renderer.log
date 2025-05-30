@@ -1,0 +1,25 @@
+2025-05-30 06:58:34.690 [info] Started local extension host with pid 235543.
+2025-05-30 06:58:35.525 [info] ComputeTargetPlatform: linux-x64
+2025-05-30 06:58:35.576 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2025-05-30 06:58:35.647 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-05-30 06:58:36.178 [info] Started local extension host with pid 235577.
+2025-05-30 06:58:37.144 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 06:58:37.188 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 06:58:37.188 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 06:58:37.188 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 06:58:37.189 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 06:58:37.189 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 06:58:37.190 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 06:58:37.190 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 06:58:37.238 [info] Settings Sync: Token updated for the account bhauvae
+2025-05-30 06:58:37.424 [info] Settings Sync: Account status changed from uninitialized to available
+2025-05-30 06:58:37.707 [info] [perf] Render performance baseline is 131ms
+2025-05-30 06:58:38.849 [error] Canceled: Canceled
+    at J0 (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:7:1105)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:37225
+    at Array.forEach (<anonymous>)
+    at V0t.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:37165)
+    at bDe.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:48837)
+    at tZs.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3279:7460)
+    at eZs.stopAllInReverse (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3279:6762)
+    at async Abt.tb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3278:16229)

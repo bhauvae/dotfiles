@@ -1,0 +1,15 @@
+2025-05-30 05:52:06.773 [warning] /home/bhavya/.ssh/config: ENOENT: no such file or directory, open '/home/bhavya/.ssh/config'
+2025-05-30 05:52:06.773 [info] [Activation] Extension version: 0.110.0
+2025-05-30 05:52:06.816 [info] [Authentication] Creating hub for .com
+2025-05-30 05:52:06.915 [info] [Activation] Looking for git repository
+2025-05-30 05:52:06.915 [info] [Activation] Found 0 repositories during activation
+2025-05-30 05:52:06.915 [info] [Activation] Git repository found, initializing review manager and pr tree view.
+2025-05-30 05:52:06.915 [info] [GitAPI] Registering git provider
+2025-05-30 05:57:35.198 [warning] /home/bhavya/.ssh/config: ENOENT: no such file or directory, open '/home/bhavya/.ssh/config'
+2025-05-30 05:57:35.198 [info] [Activation] Extension version: 0.110.0
+2025-05-30 05:57:35.360 [info] [Authentication] Creating hub for .com
+2025-05-30 05:57:35.528 [info] [Activation] Looking for git repository
+2025-05-30 05:57:35.528 [info] [Activation] Found 0 repositories during activation
+2025-05-30 05:57:35.528 [info] [Activation] Git repository found, initializing review manager and pr tree view.
+2025-05-30 05:57:35.529 [info] [GitAPI] Registering git provider
+2025-05-30 05:57:35.537 [info] [Activation] Git initialization state changed: state=initialized

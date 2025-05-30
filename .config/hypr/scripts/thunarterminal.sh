@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-if [ -f ~/.config/ml4w/settings/terminal.sh ]; then
+if [ -f "kitty" ]; then
     terminal="$(cat ~/.config/ml4w/settings/terminal.sh)"
     echo ":: Installing $terminal"
     if [ -d ~/.config/xfce4 ]; then

@@ -1,0 +1,47 @@
+2025-05-30 05:52:01.115 [info] Started local extension host with pid 139364.
+2025-05-30 05:52:01.998 [info] ComputeTargetPlatform: linux-x64
+2025-05-30 05:52:02.177 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-05-30 05:52:03.806 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 05:52:03.824 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 05:52:03.826 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 05:52:03.826 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 05:52:03.826 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 05:52:03.826 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 05:52:03.827 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 05:52:03.827 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 05:52:03.956 [info] Settings Sync: Token updated for the account bhauvae
+2025-05-30 05:52:04.060 [info] Settings Sync: Account status changed from uninitialized to available
+2025-05-30 05:52:08.365 [info] [perf] Render performance baseline is 136ms
+2025-05-30 05:52:11.589 [info] Auto updating outdated extensions. bradlc.vscode-tailwindcss, ms-python.vscode-python-envs
+2025-05-30 05:55:22.210 [info] Settings Sync: Token updated for the account bhauvae
+2025-05-30 05:55:22.211 [info] Settings Sync: Token updated for the account bhauvae
+2025-05-30 05:55:23.220 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-30 05:56:54.998 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because extension host(s) are already running. Reload window.
+2025-05-30 05:57:30.035 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because extension host(s) are already running. Reload window.
+2025-05-30 05:57:30.252 [info] Started local extension host with pid 144397.
+2025-05-30 05:57:31.641 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 05:57:31.642 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 05:57:31.649 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 05:57:31.649 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 05:57:31.652 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 05:57:31.653 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 05:57:31.653 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 05:57:31.654 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 05:57:31.999 [info] Settings Sync: Token updated for the account bhauvae
+2025-05-30 05:57:35.253 [error] Tool "create_quick_virtual_environment" was not contributed.
+2025-05-30 05:57:35.253 [error] Tool "get_python_environment_info" was not contributed.
+2025-05-30 05:57:35.253 [error] Tool "get_python_executable_info" was not contributed.
+2025-05-30 05:57:35.254 [error] Tool "install_python_package" was not contributed.
+2025-05-30 05:57:42.985 [error] TreeError [DebugRepl] Tree input not set: Error: TreeError [DebugRepl] Tree input not set
+    at Gf.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:417:29043)
+    at Gf.updateChildren (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:417:28950)
+    at Wne.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2092:33670)
+    at E.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at E.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at x1e.setVisible (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:680:2727)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1308:11769
+    at Array.map (<anonymous>)
+    at ju.setVisible (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1308:11760)
+2025-05-30 06:05:34.932 [info] Settings Sync: Token updated for the account bhauvae
+2025-05-30 06:05:34.936 [info] Settings Sync: Token updated for the account bhauvae

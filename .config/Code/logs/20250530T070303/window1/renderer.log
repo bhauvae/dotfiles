@@ -1,0 +1,39 @@
+2025-05-30 07:03:05.056 [info] Started local extension host with pid 239148.
+2025-05-30 07:03:05.141 [info] ComputeTargetPlatform: linux-x64
+2025-05-30 07:03:05.440 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-30 07:03:05.505 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2025-05-30 07:03:05.611 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-05-30 07:03:06.462 [info] Started local extension host with pid 239216.
+2025-05-30 07:03:07.325 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 07:03:07.366 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 07:03:07.367 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 07:03:07.367 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 07:03:07.368 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 07:03:07.368 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 07:03:07.368 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 07:03:07.369 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 07:03:07.619 [info] Settings Sync: Token updated for the account bhauvae
+2025-05-30 07:03:07.727 [info] Settings Sync: Account status changed from uninitialized to available
+2025-05-30 07:03:07.995 [info] [perf] Render performance baseline is 146ms
+2025-05-30 07:06:16.931 [info] Started local extension host with pid 242234.
+2025-05-30 07:06:16.932 [info] Started local extension host with pid 242235.
+2025-05-30 07:06:16.936 [error] Canceled: Canceled
+    at new OQs (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:35744)
+    at V0t.U (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:40391)
+    at n.<computed>.r.charCodeAt.n.<computed> (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:37880)
+    at eSs.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:67516)
+    at aqe.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:66226)
+    at UGe.Ib (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:28434)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26855
+    at Array.map (<anonymous>)
+    at UGe.Db (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26843)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26750
+2025-05-30 07:06:18.098 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 07:06:18.099 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 07:06:18.101 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 07:06:18.102 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 07:06:18.103 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 07:06:18.103 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 07:06:18.103 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 07:06:18.104 [error] [Extension Host] Failed to load message bundle for file /home/bhavya/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.8/out/extension
+2025-05-30 07:06:18.245 [info] Settings Sync: Token updated for the account bhauvae

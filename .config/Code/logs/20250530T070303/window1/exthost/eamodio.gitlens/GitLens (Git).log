@@ -1,0 +1,25 @@
+2025-05-30 07:03:09.892 [info] [2025-05-30 01:33:09.651] [        132ms] [/home/bhavya/.config/tofi] git rev-parse --show-toplevel • FAILED
+2025-05-30 07:03:09.892 [info] 
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2025-05-30 07:03:09.892 [info] [2025-05-30 01:33:09.852] [         35ms] [/home/bhavya/.config/tofi] git rev-parse --show-toplevel • FAILED
+2025-05-30 07:03:09.892 [info] 
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2025-05-30 07:04:34.771 [info] [2025-05-30 01:34:34.771] [         19ms] [/home/bhavya/.config/tofi] git rev-parse --show-toplevel • FAILED
+2025-05-30 07:04:34.771 [info] 
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2025-05-30 07:06:20.894 [info] [2025-05-30 01:36:20.764] [         99ms] [/home/bhavya/.config/tofi] git rev-parse --show-toplevel • FAILED
+2025-05-30 07:06:20.894 [info] 
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2025-05-30 07:06:20.931 [info] [2025-05-30 01:36:20.931] [         70ms] [/home/bhavya/.config/tofi] git rev-parse --show-toplevel • FAILED
+2025-05-30 07:06:20.931 [info] 
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+

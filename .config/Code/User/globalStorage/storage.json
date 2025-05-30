@@ -6,7 +6,7 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/bhavya/.config/hypr"
+                "folderUri": "file:///home/bhavya/.config/tofi"
             }
         ],
         "emptyWindows": []
@@ -17,7 +17,8 @@
             "file:///home/bhavya/.config": "__default__profile__",
             "file:///home/bhavya/.config/waybar": "__default__profile__",
             "file:///home/bhavya/.config/hypr": "__default__profile__",
-            "file:///home/bhavya/hypr_mine": "__default__profile__"
+            "file:///home/bhavya/hypr_mine": "__default__profile__",
+            "file:///home/bhavya/.config/tofi": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -46,7 +47,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 0,
-            "sideBarWidth": 218,
+            "sideBarWidth": 0,
             "auxiliarySideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
@@ -54,21 +55,21 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/bhavya/.config/hypr",
-            "backupPath": "/home/bhavya/.config/Code/Backups/5dc987dae666cca7a6872a87794ff6cf",
+            "folder": "file:///home/bhavya/.config/tofi",
+            "backupPath": "/home/bhavya/.config/Code/Backups/f1a261ef35da6caa9b1b246b1f9c095d",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
-                "width": 1920,
-                "height": 1200
+                "width": 480,
+                "height": 579
             }
         },
         "openedWindows": []
     },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
-            "sideBarWidth": 218,
+            "sideBarWidth": 170,
             "auxiliaryBarWidth": 300,
             "workspaces": {
                 "2fc3a4b27b3de2094ea2c4498cbb2ec4": {
@@ -89,6 +90,10 @@
                 },
                 "753f57c7718971eafdaa239f15ee5ff3": {
                     "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "aad77afb1b8b39da3c2809544b0c6d0a": {
+                    "sideBarVisible": false,
                     "auxiliaryBarVisible": false
                 }
             }

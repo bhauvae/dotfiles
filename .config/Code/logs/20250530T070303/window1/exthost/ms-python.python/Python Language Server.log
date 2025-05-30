@@ -1,0 +1,60 @@
+2025-05-30 07:03:11.089 [info] (Client) Pylance async client (2025.5.1) started with python extension (2025.6.1)
+2025-05-30 07:03:12.077 [info] [Info  - 7:03:12 AM] (240068) Server root directory: file:///home/bhavya/.vscode/extensions/ms-python.vscode-pylance-2025.5.1/dist
+2025-05-30 07:03:12.078 [info] [Info  - 7:03:12 AM] (240068) Pylance language server 2025.5.1 (pyright version 1.1.400, commit b962ffc2) starting
+2025-05-30 07:03:12.086 [info] [Info  - 7:03:12 AM] (240068) Starting service instance "tofi" for workspace "/home/bhavya/.config/tofi"
+2025-05-30 07:03:12.153 [info] [Info  - 7:03:12 AM] (240068) Setting environmentName for service "tofi": "Python 3.13.3"
+2025-05-30 07:03:12.153 [info] [Info  - 7:03:12 AM] (240068) Setting pythonPath for service "tofi": "/bin/python"
+2025-05-30 07:03:12.153 [info] [Info  - 7:03:12 AM] (240068) No include entries specified; assuming /home/bhavya/.config/tofi
+2025-05-30 07:03:12.154 [info] [Info  - 7:03:12 AM] (240068) Auto-excluding **/node_modules
+2025-05-30 07:03:12.154 [info] [Info  - 7:03:12 AM] (240068) Auto-excluding **/__pycache__
+2025-05-30 07:03:12.154 [info] [Info  - 7:03:12 AM] (240068) Auto-excluding **/.*
+2025-05-30 07:03:12.176 [info] [Info  - 7:03:12 AM] (240068) Assuming Python version 3.13.3.final.0
+2025-05-30 07:03:12.255 [info] [Info  - 7:03:12 AM] (240068) No source files found.
+2025-05-30 07:03:12.276 [info] [Info  - 7:03:12 AM] (240068) Setting environmentName for service "tofi": "Python 3.13.3"
+2025-05-30 07:03:12.276 [info] [Info  - 7:03:12 AM] (240068) Setting pythonPath for service "tofi": "/bin/python"
+2025-05-30 07:03:12.276 [info] [Info  - 7:03:12 AM] (240068) No include entries specified; assuming /home/bhavya/.config/tofi
+2025-05-30 07:03:12.276 [info] [Info  - 7:03:12 AM] (240068) Auto-excluding **/node_modules
+2025-05-30 07:03:12.276 [info] [Info  - 7:03:12 AM] (240068) Auto-excluding **/__pycache__
+2025-05-30 07:03:12.277 [info] [Info  - 7:03:12 AM] (240068) Auto-excluding **/.*
+2025-05-30 07:03:12.308 [info] [Info  - 7:03:12 AM] (240068) Assuming Python version 3.13.3.final.0
+2025-05-30 07:03:12.373 [info] [Info  - 7:03:12 AM] (240068) No source files found.
+2025-05-30 07:03:12.386 [info] [Info  - 7:03:12 AM] (240068) Setting environmentName for service "tofi": "Python 3.13.3"
+2025-05-30 07:03:12.386 [info] [Info  - 7:03:12 AM] (240068) Setting pythonPath for service "tofi": "/bin/python"
+2025-05-30 07:03:12.386 [info] [Info  - 7:03:12 AM] (240068) No include entries specified; assuming /home/bhavya/.config/tofi
+2025-05-30 07:03:12.386 [info] [Info  - 7:03:12 AM] (240068) Auto-excluding **/node_modules
+2025-05-30 07:03:12.387 [info] [Info  - 7:03:12 AM] (240068) Auto-excluding **/__pycache__
+2025-05-30 07:03:12.387 [info] [Info  - 7:03:12 AM] (240068) Auto-excluding **/.*
+2025-05-30 07:03:12.416 [info] [Info  - 7:03:12 AM] (240068) Assuming Python version 3.13.3.final.0
+2025-05-30 07:03:12.474 [info] [Info  - 7:03:12 AM] (240068) No source files found.
+2025-05-30 07:03:12.830 [info] [Info  - 7:03:12 AM] (240068) BG: Priority queue background worker(2) root directory: file:///home/bhavya/.vscode/extensions/ms-python.vscode-pylance-2025.5.1/dist
+2025-05-30 07:03:12.831 [info] [Info  - 7:03:12 AM] (240068) BG: Priority queue background worker(2) started
+2025-05-30 07:06:22.235 [info] (Client) Pylance async client (2025.5.1) started with python extension (2025.6.1)
+2025-05-30 07:06:23.161 [info] [Info  - 7:06:23 AM] (243082) Server root directory: file:///home/bhavya/.vscode/extensions/ms-python.vscode-pylance-2025.5.1/dist
+2025-05-30 07:06:23.162 [info] [Info  - 7:06:23 AM] (243082) Pylance language server 2025.5.1 (pyright version 1.1.400, commit b962ffc2) starting
+2025-05-30 07:06:23.168 [info] [Info  - 7:06:23 AM] (243082) Starting service instance "tofi" for workspace "/home/bhavya/.config/tofi"
+2025-05-30 07:06:23.302 [info] [Info  - 7:06:23 AM] (243082) Setting environmentName for service "tofi": "Python 3.13.3"
+2025-05-30 07:06:23.303 [info] [Info  - 7:06:23 AM] (243082) Setting pythonPath for service "tofi": "/bin/python"
+2025-05-30 07:06:23.303 [info] [Info  - 7:06:23 AM] (243082) No include entries specified; assuming /home/bhavya/.config/tofi
+2025-05-30 07:06:23.304 [info] [Info  - 7:06:23 AM] (243082) Auto-excluding **/node_modules
+2025-05-30 07:06:23.304 [info] [Info  - 7:06:23 AM] (243082) Auto-excluding **/__pycache__
+2025-05-30 07:06:23.304 [info] [Info  - 7:06:23 AM] (243082) Auto-excluding **/.*
+2025-05-30 07:06:23.334 [info] [Info  - 7:06:23 AM] (243082) Assuming Python version 3.13.3.final.0
+2025-05-30 07:06:23.398 [info] [Info  - 7:06:23 AM] (243082) No source files found.
+2025-05-30 07:06:23.421 [info] [Info  - 7:06:23 AM] (243082) Setting environmentName for service "tofi": "Python 3.13.3"
+2025-05-30 07:06:23.421 [info] [Info  - 7:06:23 AM] (243082) Setting pythonPath for service "tofi": "/bin/python"
+2025-05-30 07:06:23.421 [info] [Info  - 7:06:23 AM] (243082) No include entries specified; assuming /home/bhavya/.config/tofi
+2025-05-30 07:06:23.422 [info] [Info  - 7:06:23 AM] (243082) Auto-excluding **/node_modules
+2025-05-30 07:06:23.422 [info] [Info  - 7:06:23 AM] (243082) Auto-excluding **/__pycache__
+2025-05-30 07:06:23.422 [info] [Info  - 7:06:23 AM] (243082) Auto-excluding **/.*
+2025-05-30 07:06:23.454 [info] [Info  - 7:06:23 AM] (243082) Assuming Python version 3.13.3.final.0
+2025-05-30 07:06:23.523 [info] [Info  - 7:06:23 AM] (243082) No source files found.
+2025-05-30 07:06:23.540 [info] [Info  - 7:06:23 AM] (243082) Setting environmentName for service "tofi": "Python 3.13.3"
+2025-05-30 07:06:23.540 [info] [Info  - 7:06:23 AM] (243082) Setting pythonPath for service "tofi": "/bin/python"
+2025-05-30 07:06:23.540 [info] [Info  - 7:06:23 AM] (243082) No include entries specified; assuming /home/bhavya/.config/tofi
+2025-05-30 07:06:23.540 [info] [Info  - 7:06:23 AM] (243082) Auto-excluding **/node_modules
+2025-05-30 07:06:23.540 [info] [Info  - 7:06:23 AM] (243082) Auto-excluding **/__pycache__
+2025-05-30 07:06:23.540 [info] [Info  - 7:06:23 AM] (243082) Auto-excluding **/.*
+2025-05-30 07:06:23.569 [info] [Info  - 7:06:23 AM] (243082) Assuming Python version 3.13.3.final.0
+2025-05-30 07:06:23.634 [info] [Info  - 7:06:23 AM] (243082) No source files found.
+2025-05-30 07:06:23.995 [info] [Info  - 7:06:23 AM] (243082) BG: Priority queue background worker(2) root directory: file:///home/bhavya/.vscode/extensions/ms-python.vscode-pylance-2025.5.1/dist
+2025-05-30 07:06:23.995 [info] [Info  - 7:06:23 AM] (243082) BG: Priority queue background worker(2) started

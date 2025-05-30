@@ -1,8 +1,0 @@
-2025-05-27 07:11:19.784 [info] Extension host with pid 42424 started
-2025-05-27 07:11:19.784 [info] Skipping acquiring lock for /home/bhavya/.config/Code/User/workspaceStorage/753f57c7718971eafdaa239f15ee5ff3.
-2025-05-27 07:11:20.336 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
-2025-05-27 07:11:20.359 [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
-2025-05-27 07:11:20.363 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
-2025-05-27 07:11:20.366 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
-2025-05-27 07:11:20.672 [info] Extension host terminating: renderer closed the MessagePort
-2025-05-27 07:11:20.676 [info] Extension host with pid 42424 exiting with code 0

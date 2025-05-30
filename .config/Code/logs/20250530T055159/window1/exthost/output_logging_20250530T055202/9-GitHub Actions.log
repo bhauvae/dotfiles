@@ -1,0 +1,20 @@
+Activating GitHub Actions extension...
+
+Cannot fetch github context
+Error: Cannot fetch github context
+    at Et (/home/bhavya/.vscode/extensions/github.vscode-github-actions-0.27.1/dist/extension-node.js:2:1449407)
+    at /home/bhavya/.vscode/extensions/github.vscode-github-actions-0.27.1/dist/extension-node.js:2:1630855
+    at ia (/home/bhavya/.vscode/extensions/github.vscode-github-actions-0.27.1/dist/extension-node.js:2:1629927)
+    at Nb.n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:13382)
+    at Nb.m (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:13345)
+    at Nb.l (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:12801)
+
+Cannot fetch github context
+Error: Cannot fetch github context
+    at Et (/home/bhavya/.vscode/extensions/github.vscode-github-actions-0.27.1/dist/extension-node.js:2:1449407)
+    at Dt (/home/bhavya/.vscode/extensions/github.vscode-github-actions-0.27.1/dist/extension-node.js:2:1449737)
+    at ia (/home/bhavya/.vscode/extensions/github.vscode-github-actions-0.27.1/dist/extension-node.js:2:1641609)
+    at Nb.n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:13382)
+    at Nb.m (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:13345)
+    at Nb.l (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:12801)
+...initialized

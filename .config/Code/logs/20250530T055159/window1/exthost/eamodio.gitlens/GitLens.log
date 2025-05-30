@@ -1,0 +1,43 @@
+2025-05-30 05:52:06.822 [info] GitLens v17.1.1 activating in Visual Studio Code (1.100.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (7e947851f0e3ba4c83a0cac448eb219c0c7f63e20c23126fdf5ab2ae15547421|56534fa5-4f59-4f24-89bb-7e3eb9a68af91748564520615)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2025-05-30 00:22:06.524] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+[2025-05-30 00:22:06.524] [GIT          ] [/home/bhavya/.config/hypr] git rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [143ms]
+
+2025-05-30 05:52:07.087 [info] [2025-05-30 00:22:06.905] [            f] GitCodeLensProvider.provideCodeLenses(TextDocument(shellscript, dirty=false, file:///home/bhavya/.config/hypr/scripts/random_wallpaper)) Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+[2025-05-30 00:22:06.905] [GIT          ] [/home/bhavya/.config/hypr/scripts] git rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [30ms]
+[2025-05-30 00:22:06.906] [            f] GitCodeLensProvider.provideCodeLenses(TextDocument(shellscript, dirty=false, file:///home/bhavya/.config/hypr/scripts/random_wallpaper)) Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+[2025-05-30 00:22:06.906] [GIT          ] [/home/bhavya/.config/hypr/conf] git rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [42ms]
+
+2025-05-30 05:55:52.947 [info] [2025-05-30 00:25:52.446] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+[2025-05-30 00:25:52.447] [GIT          ] [/home/bhavya/.config/hypr/scripts] git rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [25ms]
+
+2025-05-30 05:55:56.451 [info] [2025-05-30 00:25:56.311] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+[2025-05-30 00:25:56.311] [GIT          ] [/home/bhavya/.config/hypr/theme/decorations] git rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [20ms]
+
+2025-05-30 05:57:35.255 [info] GitLens v17.1.1 activating in Visual Studio Code (1.100.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (7e947851f0e3ba4c83a0cac448eb219c0c7f63e20c23126fdf5ab2ae15547421|56534fa5-4f59-4f24-89bb-7e3eb9a68af91748564520615)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2025-05-30 00:27:35.132] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+[2025-05-30 00:27:35.133] [GIT          ] [/home/bhavya/.config/hypr] git rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [113ms]
+
+2025-05-30 05:57:38.817 [info] [2025-05-30 00:27:38.326] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+[2025-05-30 00:27:38.326] [GIT          ] [/home/bhavya/.config/hypr/scripts] git rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [32ms]
+
+2025-05-30 05:58:32.155 [info] [2025-05-30 00:28:31.656] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+[2025-05-30 00:28:31.656] [GIT          ] [/home/bhavya/.config/hypr] git rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [28ms]
+

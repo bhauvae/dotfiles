@@ -1,0 +1,18 @@
+2025-05-30 07:03:09.914 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-05-30 07:03:09.914 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-05-30 07:03:09.914 [info] Native locator: Refresh started
+2025-05-30 07:03:09.914 [info] Native locator: Refresh started
+2025-05-30 07:03:10.042 [info] Active interpreter [/home/bhavya/.config/tofi]:  /bin/python
+2025-05-30 07:03:10.043 [info] Native locator: Refresh finished in 231 ms
+2025-05-30 07:03:10.061 [info] > pyenv which python
+2025-05-30 07:03:10.061 [info] cwd: .
+2025-05-30 07:03:12.102 [info] Starting Pylance language server.
+2025-05-30 07:06:20.894 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-05-30 07:06:20.894 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-05-30 07:06:20.922 [info] Native locator: Refresh started
+2025-05-30 07:06:21.019 [info] > pyenv which python
+2025-05-30 07:06:21.019 [info] cwd: .
+2025-05-30 07:06:21.131 [info] Active interpreter [/home/bhavya/.config/tofi]:  /bin/python
+2025-05-30 07:06:21.132 [info] Native locator: Refresh finished in 210 ms
+2025-05-30 07:06:21.242 [info] Discover tests for workspace name: tofi - uri: /home/bhavya/.config/tofi
+2025-05-30 07:06:23.184 [info] Starting Pylance language server.

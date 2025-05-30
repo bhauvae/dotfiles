@@ -1,0 +1,1 @@
+2025-05-29 08:56:32.529 [error] Failed to set sticky bit on /tmp/bhavya-code-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/bhavya-code-zsh'
