@@ -23,7 +23,6 @@ map a toggle_statusbar
 map [fullscreen] f toggle_fullscreen
 
 
-set selection-clipboard clipboard
 set window-title-page true
 
 # Colors

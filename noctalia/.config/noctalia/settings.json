@@ -410,7 +410,7 @@
     "idle": {
         "customCommands": "[]",
         "enabled": true,
-        "fadeDuration": 5,
+        "fadeDuration": 10,
         "lockCommand": "",
         "lockTimeout": 660,
         "resumeLockCommand": "",

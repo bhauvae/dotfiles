@@ -30,7 +30,7 @@ end
 local mainMod = "SUPER"
 local terminal = "ghostty"
 local browser = "qutebrowser"
-local noteApp = "obsidian"
+local noteApp = "neovim"
 local officeSuite = "onlyoffice"
 local fileManager = "ghostty -e spf"
 local altFileManager = "nautilus"
@@ -148,7 +148,7 @@ hl.bind(
 -- SUPER+/ → Noctalia keybind cheatsheet panel (if plugin present).
 hl.bind(
 	mainMod .. " + Slash",
-	noct("plugin:keybind-cheatsheet toggle"),
+	cmd("vicinae 'vicinae://launch/@sovereign/store.vicinae.hypr-keybinds/hyprland-keybinds'"),
 	{ description = "Toggle Noctalia keybind cheatsheet" }
 )
 
