@@ -1,0 +1,879 @@
+{
+  "cheatsheetData": [
+    {
+      "title": "Other",
+      "binds": [
+        {
+          "keys": "Super + B",
+          "desc": "Launch browser (zen-browser)",
+          "bindId": "|64|B|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + E",
+          "desc": "Launch primary file manager (ghostty -e spf)",
+          "bindId": "|64|E|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + E",
+          "desc": "Launch alternate file manager (nautilus)",
+          "bindId": "|65|E|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + RETURN",
+          "desc": "Launch terminal (ghostty)",
+          "bindId": "|64|RETURN|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + BACKSPACE",
+          "desc": "Launch primary editor (code)",
+          "bindId": "|64|BACKSPACE|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + BACKSPACE",
+          "desc": "Launch alternate editor (ghostty -e nvim)",
+          "bindId": "|65|BACKSPACE|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + C",
+          "desc": "Launch calculator (gnome-calculator)",
+          "bindId": "|64|C|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + M",
+          "desc": "Launch music player (pear-desktop)",
+          "bindId": "|65|M|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + GRAVE",
+          "desc": "Focus scratchpad special workspace",
+          "bindId": "|64|grave|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + GRAVE",
+          "desc": "Move focused window to scratchpad workspace",
+          "bindId": "|65|grave|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + SPACE",
+          "desc": "Open app launcher",
+          "bindId": "|64|SPACE|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Alt + SPACE",
+          "desc": "Toggle Vicinae main panel",
+          "bindId": "|8|space|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + V",
+          "desc": "Toggle Vicinae clipboard history",
+          "bindId": "|64|V|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + V",
+          "desc": "Toggle Noctalia volume panel",
+          "bindId": "|65|V|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + TAB",
+          "desc": "Toggle Noctalia workspace overview",
+          "bindId": "|64|TAB|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Ctrl + Alt + DELETE",
+          "desc": "Open Noctalia session menu (lock and suspend)",
+          "bindId": "|12|DELETE|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + SLASH",
+          "desc": "Toggle Noctalia keybind cheatsheet",
+          "bindId": "|64|Slash|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Q",
+          "desc": "Close focused window (graceful)",
+          "bindId": "|64|Q|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + Q",
+          "desc": "Kill focused window (force)",
+          "bindId": "|65|Q|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + F",
+          "desc": "Toggle fullscreen for focused window",
+          "bindId": "|64|F|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + M",
+          "desc": "Toggle maximized (tiling-maximize) for focused window",
+          "bindId": "|64|M|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + T",
+          "desc": "Toggle floating for focused window",
+          "bindId": "|64|T|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + T",
+          "desc": "Toggle all-float option for current workspace",
+          "bindId": "|65|T|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + S",
+          "desc": "Dwindle: toggle split orientation at focused node",
+          "bindId": "|65|S|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + C",
+          "desc": "Center focused window on screen",
+          "bindId": "|65|C|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + T",
+          "desc": "Toggle pin for focused window",
+          "bindId": "|72|T|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + LEFT",
+          "desc": "Focus window to the left",
+          "bindId": "|64|left|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + RIGHT",
+          "desc": "Focus window to the right",
+          "bindId": "|64|right|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + UP",
+          "desc": "Focus window above",
+          "bindId": "|64|up|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + DOWN",
+          "desc": "Focus window below",
+          "bindId": "|64|down|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + H",
+          "desc": "Focus window left (H)",
+          "bindId": "|64|H|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + L",
+          "desc": "Focus window right (L)",
+          "bindId": "|64|L|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + K",
+          "desc": "Focus window up (K)",
+          "bindId": "|64|K|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + J",
+          "desc": "Focus window down (J)",
+          "bindId": "|64|J|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + LEFT",
+          "desc": "Move window/group left",
+          "bindId": "|65|left|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + RIGHT",
+          "desc": "Move window/group right",
+          "bindId": "|65|right|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + UP",
+          "desc": "Move window/group up",
+          "bindId": "|65|up|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + DOWN",
+          "desc": "Move window/group down",
+          "bindId": "|65|down|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + H",
+          "desc": "Move window/group left (H)",
+          "bindId": "|65|H|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + L",
+          "desc": "Move window/group right (L)",
+          "bindId": "|65|L|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + K",
+          "desc": "Move window/group up (K)",
+          "bindId": "|65|K|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + J",
+          "desc": "Move window/group down (J)",
+          "bindId": "|65|J|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Left Click",
+          "desc": "Drag focused window with mouse (LMB)",
+          "bindId": "|64|mouse:272|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Right Click",
+          "desc": "Resize focused window with mouse (RMB)",
+          "bindId": "|64|mouse:273|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + MINUS",
+          "desc": "Shrink window horizontally by 100",
+          "bindId": "|64|minus|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + EQUAL",
+          "desc": "Grow window horizontally by 100",
+          "bindId": "|64|equal|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + MINUS",
+          "desc": "Shrink window vertically by 100",
+          "bindId": "|65|minus|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + EQUAL",
+          "desc": "Grow window vertically by 100",
+          "bindId": "|65|equal|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + G",
+          "desc": "Toggle group for focused window",
+          "bindId": "|64|G|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + G",
+          "desc": "Toggle lock on current group",
+          "bindId": "|65|G|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + LEFT",
+          "desc": "Swap window with neighbor to the left",
+          "bindId": "|72|left|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + RIGHT",
+          "desc": "Swap window with neighbor to the right",
+          "bindId": "|72|right|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + UP",
+          "desc": "Swap window with neighbor above",
+          "bindId": "|72|up|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + DOWN",
+          "desc": "Swap window with neighbor below",
+          "bindId": "|72|down|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + H",
+          "desc": "Swap window left (H)",
+          "bindId": "|72|H|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + L",
+          "desc": "Swap window right (L)",
+          "bindId": "|72|L|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + K",
+          "desc": "Swap window up (K)",
+          "bindId": "|72|K|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + J",
+          "desc": "Swap window down (J)",
+          "bindId": "|72|J|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Alt + TAB",
+          "desc": "Snappy-switcher: next window",
+          "bindId": "|8|Tab|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Shift + Alt + TAB",
+          "desc": "Snappy-switcher: previous window",
+          "bindId": "|9|Tab|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Ctrl + TAB",
+          "desc": "Focus previous workspace",
+          "bindId": "|68|Tab|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Ctrl + H",
+          "desc": "Focus workspace -1 on current monitor (m-1)",
+          "bindId": "|68|H|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Ctrl + L",
+          "desc": "Focus workspace +1 on current monitor (m+1)",
+          "bindId": "|68|L|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Ctrl + DOWN",
+          "desc": "Focus next empty workspace",
+          "bindId": "|68|down|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + PAGE_DOWN",
+          "desc": "Focus next empty workspace (Page Down)",
+          "bindId": "|64|Page_Down|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + PAGE_UP",
+          "desc": "Focus previous empty workspace (Page Up)",
+          "bindId": "|64|Page_Up|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + U",
+          "desc": "Focus next empty workspace (U)",
+          "bindId": "|64|U|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + I",
+          "desc": "Focus previous empty workspace (I)",
+          "bindId": "|64|I|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + U",
+          "desc": "Move window to next empty workspace and follow",
+          "bindId": "|65|U|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + I",
+          "desc": "Move window to previous empty workspace and follow",
+          "bindId": "|65|I|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Ctrl + Scroll Down",
+          "desc": "Move window to next empty workspace (mouse wheel down)",
+          "bindId": "|68|mouse_down|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Ctrl + Scroll Up",
+          "desc": "Move window to previous empty workspace (mouse wheel up)",
+          "bindId": "|68|mouse_up|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + 1",
+          "desc": "Focus workspace 1",
+          "bindId": "|64|1|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + 1",
+          "desc": "Move window to workspace 1 and follow",
+          "bindId": "|65|1|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + 2",
+          "desc": "Focus workspace 2",
+          "bindId": "|64|2|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + 2",
+          "desc": "Move window to workspace 2 and follow",
+          "bindId": "|65|2|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + 3",
+          "desc": "Focus workspace 3",
+          "bindId": "|64|3|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + 3",
+          "desc": "Move window to workspace 3 and follow",
+          "bindId": "|65|3|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + 4",
+          "desc": "Focus workspace 4",
+          "bindId": "|64|4|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + 4",
+          "desc": "Move window to workspace 4 and follow",
+          "bindId": "|65|4|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + 5",
+          "desc": "Focus workspace 5",
+          "bindId": "|64|5|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + 5",
+          "desc": "Move window to workspace 5 and follow",
+          "bindId": "|65|5|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + 6",
+          "desc": "Focus workspace 6",
+          "bindId": "|64|6|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + 6",
+          "desc": "Move window to workspace 6 and follow",
+          "bindId": "|65|6|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + 7",
+          "desc": "Focus workspace 7",
+          "bindId": "|64|7|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + 7",
+          "desc": "Move window to workspace 7 and follow",
+          "bindId": "|65|7|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + 8",
+          "desc": "Focus workspace 8",
+          "bindId": "|64|8|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + 8",
+          "desc": "Move window to workspace 8 and follow",
+          "bindId": "|65|8|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + 9",
+          "desc": "Focus workspace 9",
+          "bindId": "|64|9|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + 9",
+          "desc": "Move window to workspace 9 and follow",
+          "bindId": "|65|9|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + 0",
+          "desc": "Focus workspace 10",
+          "bindId": "|64|0|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + 0",
+          "desc": "Move window to workspace 10 and follow",
+          "bindId": "|65|0|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + 1",
+          "desc": "Send window silently to relative workspace r~1",
+          "bindId": "|72|1|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + 2",
+          "desc": "Send window silently to relative workspace r~2",
+          "bindId": "|72|2|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + 3",
+          "desc": "Send window silently to relative workspace r~3",
+          "bindId": "|72|3|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + 4",
+          "desc": "Send window silently to relative workspace r~4",
+          "bindId": "|72|4|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + 5",
+          "desc": "Send window silently to relative workspace r~5",
+          "bindId": "|72|5|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + 6",
+          "desc": "Send window silently to relative workspace r~6",
+          "bindId": "|72|6|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + 7",
+          "desc": "Send window silently to relative workspace r~7",
+          "bindId": "|72|7|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + 8",
+          "desc": "Send window silently to relative workspace r~8",
+          "bindId": "|72|8|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + 9",
+          "desc": "Send window silently to relative workspace r~9",
+          "bindId": "|72|9|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Ctrl + UP",
+          "desc": "Move window to previous workspace on current monitor and follow",
+          "bindId": "|68|up|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Ctrl + U",
+          "desc": "Move window to next workspace on current monitor and follow",
+          "bindId": "|68|U|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Ctrl + I",
+          "desc": "Move window to previous workspace on current monitor and follow (I)",
+          "bindId": "|68|I|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Ctrl + LEFT",
+          "desc": "Focus previous monitor",
+          "bindId": "|68|left|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Ctrl + RIGHT",
+          "desc": "Focus next monitor",
+          "bindId": "|68|right|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Ctrl + J",
+          "desc": "Focus next monitor (J)",
+          "bindId": "|68|J|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Ctrl + K",
+          "desc": "Focus previous monitor (K)",
+          "bindId": "|68|K|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + Ctrl + LEFT",
+          "desc": "Move window to previous monitor and follow",
+          "bindId": "|69|left|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + Ctrl + RIGHT",
+          "desc": "Move window to next monitor and follow",
+          "bindId": "|69|right|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + Ctrl + DOWN",
+          "desc": "Move window to next monitor and follow (down)",
+          "bindId": "|69|down|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + Ctrl + UP",
+          "desc": "Move window to previous monitor and follow (up)",
+          "bindId": "|69|up|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + Ctrl + H",
+          "desc": "Move window to previous monitor and follow (H)",
+          "bindId": "|69|H|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + Ctrl + J",
+          "desc": "Move window to next monitor and follow (J)",
+          "bindId": "|69|J|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + Ctrl + K",
+          "desc": "Move window to previous monitor and follow (K)",
+          "bindId": "|69|K|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + Ctrl + L",
+          "desc": "Move window to next monitor and follow (L)",
+          "bindId": "|69|L|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + HOME",
+          "desc": "Focus first window on current workspace",
+          "bindId": "|64|Home|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + END",
+          "desc": "Focus last window on current workspace",
+          "bindId": "|64|End|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + BRACKETLEFT",
+          "desc": "Dwindle: preselect split left",
+          "bindId": "|64|bracketleft|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + BRACKETRIGHT",
+          "desc": "Dwindle: preselect split right",
+          "bindId": "|64|bracketright|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + PERIOD",
+          "desc": "Scrolling: move view to next column (+col)",
+          "bindId": "|64|period|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + COMMA",
+          "desc": "Scrolling: move view to previous column (-col)",
+          "bindId": "|64|comma|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + PERIOD",
+          "desc": "Scrolling: swap column with right neighbor",
+          "bindId": "|65|period|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + COMMA",
+          "desc": "Scrolling: swap column with left neighbor",
+          "bindId": "|65|comma|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + P",
+          "desc": "Toggle layout between dwindle and scrolling (with notification)",
+          "bindId": "|64|P|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Shift + P",
+          "desc": "Set layout to dwindle (with notification)",
+          "bindId": "|65|P|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + Alt + P",
+          "desc": "Set layout to scrolling (with notification)",
+          "bindId": "|72|P|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "PrtSc",
+          "desc": "Screenshot current screen (Noctalia screenshot plugin)",
+          "bindId": "|0|Print|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Super + PrtSc",
+          "desc": "Screenshot current screen (Noctalia screenshot plugin)",
+          "bindId": "|64|Print|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Vol Up",
+          "desc": "Raise output volume (Noctalia)",
+          "bindId": "|0|XF86AudioRaiseVolume|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Vol Down",
+          "desc": "Lower output volume (Noctalia)",
+          "bindId": "|0|XF86AudioLowerVolume|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Mute",
+          "desc": "Toggle output mute (Noctalia)",
+          "bindId": "|0|XF86AudioMute|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Mic Mute",
+          "desc": "Toggle microphone mute (Noctalia)",
+          "bindId": "|0|XF86AudioMicMute|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Pause",
+          "desc": "Play/Pause media (playerctl)",
+          "bindId": "|0|XF86AudioPause|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Play",
+          "desc": "Play/Pause media (playerctl, Play key)",
+          "bindId": "|0|XF86AudioPlay|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Prev",
+          "desc": "Previous track (playerctl)",
+          "bindId": "|0|XF86AudioPrev|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Next",
+          "desc": "Next track (playerctl)",
+          "bindId": "|0|XF86AudioNext|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Bright Up",
+          "desc": "Increase display brightness (Noctalia)",
+          "bindId": "|0|XF86MonBrightnessUp|000|__lua",
+          "undescribed": false
+        },
+        {
+          "keys": "Bright Down",
+          "desc": "Decrease display brightness (Noctalia)",
+          "bindId": "|0|XF86MonBrightnessDown|000|__lua",
+          "undescribed": false
+        }
+      ]
+    }
+  ],
+  "detectedCompositor": "hyprland",
+  "windowWidth": 1400,
+  "windowHeight": 500,
+  "autoHeight": true,
+  "columnCount": 4,
+  "modKeyVariable": "$mainMod",
+  "hyprlandConfigPath": "~/.config/hypr/hyprland.conf",
+  "hyprlandLuaConfigPath": "~/.config/hypr/hyprland.lua",
+  "hyprlandParserMode": "lua",
+  "niriConfigPath": "~/.config/niri/config.kdl",
+  "mangoConfigPath": "~/.config/mango/config.conf",
+  "mergeSequentialBinds": true,
+  "showUndescribedBinds": true,
+  "splitLargeWorkspaceCategory": true,
+  "workspaceSplitThreshold": 12,
+  "keyColorAlt": "#FF6B6B",
+  "keyColorXF86": "#4ECDC4",
+  "keyColorPrint": "#95E1D3",
+  "keyColorNumeric": "#A8DADC",
+  "keyColorMouse": "#F38181",
+  "keyColorSuper": "",
+  "keyColorCtrl": "",
+  "keyColorShift": "",
+  "keyColorDefault": "#6C757D",
+  "keyLabelColor": "#FFFFFF",
+  "keyTextSuper": "",
+  "keyTextCtrl": "",
+  "keyTextShift": "",
+  "keyTextAlt": "",
+  "keyTextXF86": "",
+  "keyTextPrint": "",
+  "keyTextNumeric": "",
+  "keyTextMouse": "",
+  "keyTextDefault": "",
+  "descriptionTextColor": "",
+  "bindOverrides": {}
+}

@@ -1,0 +1,53 @@
+# Typography
+font-family = JetBrains Nerd Font Mono
+font-size = 10
+font-feature = +ss02
+font-feature = +ss03
+font-feature = +ss05
+font-feature = +ss07
+adjust-cell-height = 12%
+
+# Theme
+theme = catppuccin-mocha.conf
+window-theme = system
+
+# Window
+gtk-titlebar = false
+gtk-single-instance = true
+gtk-wide-tabs = false
+window-padding-x = 0
+window-padding-y = 0
+window-padding-balance = true
+window-save-state = never
+
+# Cursor
+cursor-style = block
+cursor-style-blink = false
+cursor-invert-fg-bg = false
+
+# Scrollback
+scrollback-limit = 10000
+
+# Behavior
+mouse-hide-while-typing = true
+mouse-scroll-multiplier = 1
+copy-on-select = clipboard
+confirm-close-surface = false
+resize-overlay = never
+app-notifications = no-clipboard-copy,no-config-reload
+
+# Shell integration
+shell-integration = detect
+shell-integration-features = sudo,title,no-cursor
+
+# Updates
+auto-update = check
+auto-update-channel = stable
+
+# Keybinds
+keybind = ctrl+plus=increase_font_size:1
+keybind = ctrl+minus=decrease_font_size:1
+keybind = ctrl+zero=reset_font_size
+keybind = shift+enter=text:\\n
+
+

@@ -1,0 +1,168 @@
+/* Catppuccin Mocha */
+@define-color rosewater #f5e0dc;
+@define-color flamingo  #f2cdcd;
+@define-color pink      #f5c2e7;
+@define-color mauve     #cba6f7;
+@define-color red       #f38ba8;
+@define-color maroon    #eba0ac;
+@define-color peach     #fab387;
+@define-color yellow    #f9e2af;
+@define-color green     #a6e3a1;
+@define-color teal      #94e2d5;
+@define-color sky       #89dceb;
+@define-color sapphire  #74c7ec;
+@define-color blue      #89b4fa;
+@define-color lavender  #b4befe;
+@define-color text      #cdd6f4;
+@define-color subtext1  #bac2de;
+@define-color subtext0  #a6adc8;
+@define-color overlay2  #9399b2;
+@define-color overlay1  #7f849c;
+@define-color overlay0  #6c7086;
+@define-color surface2  #585b70;
+@define-color surface1  #45475a;
+@define-color surface0  #313244;
+@define-color base      #1e1e2e;
+@define-color mantle    #181825;
+@define-color crust     #11111b;
+
+/* Reset */
+* {
+  all: unset;
+}
+
+/* ========== Fullscreen overlay ========== */
+
+window {
+  /* Almost-black fullscreen background */
+  background: alpha(@crust, 0.9);
+}
+
+/* Center column; remove card look */
+.box-wrapper {
+  background: transparent;
+  box-shadow: none;
+  border-radius: 0;
+  border: none;
+  padding-top: 200px;
+}
+
+/* ========== Search line (run: text) ========== */
+
+.search-container {
+  background: transparent;
+  border-radius: 0;
+  padding: 8px;
+  margin: 0;
+}
+
+/* Prompt / input line */
+.input {
+  caret-color: @text;
+  background: none;
+  padding: 4px;
+  color: @text;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 24px;
+}
+
+/* Placeholder text (“run:” label when empty) */
+.input placeholder {
+  opacity: 0.6;
+  color: @red;
+}
+
+/* ========== List of entries ========== */
+
+.list {
+  background: transparent;
+  color: @text;
+}
+
+/* Each entry row – text only */
+.item-box {
+  border-radius: 0;
+  padding: 8px 0;
+}
+
+/* Main result text */
+.item-text {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 18px;
+  color: @text;
+}
+
+/* Selected line (pink) */
+child:selected .item-text,
+row:selected .item-text {
+  color: @mauve;
+}
+
+/* Hide subtext everywhere for one-line look */
+.item-subtext,
+.providerlist .item-subtext {
+  display: none;
+  font-size: 0;
+}
+
+/* ========== Icons off (text-only like Tofi) ========== */
+
+.item-image,
+.preview .large-icons,
+.symbols .item-image {
+  -gtk-icon-size: 0;
+  margin: 0;
+  padding: 0;
+  min-width: 0;
+  min-height: 0;
+  opacity: 0;
+}
+
+/* Emoji / symbols fallback */
+.item-image-text {
+  font-size: 18px;
+}
+
+/* ========== Misc clean-up ========== */
+
+scrollbar {
+  opacity: 0;
+}
+
+/* Preview and helper widgets */
+.preview,
+.elephant-hint,
+.keybinds,
+.keybind-button,
+.keybind-label {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  color: @subtext0;
+  font-size: 14px;
+  opacity: 1; /* adjust if you want them more subtle */
+}
+
+/* Error messages */
+.error {
+  padding: 10px;
+  background: @red;
+  color: @base;
+}
+
+/* Preview area background */
+.preview {
+  background: @crust; /* or @surface0 for lighter */
+  border-radius: 10px;
+  color: @text;
+  margin-left: 24px;
+  padding: 4px;
+}
+
+/* Optional preview inner box */
+.preview-box {
+  background: @mantle;
+  border-radius: 10px;
+  margin: 12px;
+  padding: 12px;
+}
