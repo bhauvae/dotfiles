@@ -100,7 +100,7 @@ hl.bind(mainMod .. " + SHIFT + M", cmd(musicPlayer), { description = "Launch mus
 -- Focus scratchpad special workspace.
 hl.bind(
 	"SUPER + grave",
-	hl.dsp.focus({ workspace = "special:scratchpad" }),
+	hl.dsp.workspace.toggle_special("scratchpad"),
 	{ description = "Focus scratchpad special workspace" }
 )
 
