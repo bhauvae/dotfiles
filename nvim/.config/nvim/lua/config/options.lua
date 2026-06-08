@@ -84,7 +84,7 @@ end
 opt.undodir = undodir
 
 opt.autoread = true -- Auto-reload files changed on disk
-opt.autowrite = false -- Don't auto-write on various events (LazyVim handles some saves)
+opt.autowrite = true -- Don't auto-write on various events (LazyVim handles some saves)
 
 -- Faster CursorHold / diagnostic updates
 opt.updatetime = 200 -- Default is 4000; 200-300 feels snappy without being noisy

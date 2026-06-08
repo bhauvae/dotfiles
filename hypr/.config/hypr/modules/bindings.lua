@@ -28,14 +28,14 @@ end
 ----------------------------
 
 local mainMod = "SUPER"
-local terminal = "ghostty"
+local terminal = "kitty"
 local browser = "qutebrowser"
 local noteApp = "neovim"
 local officeSuite = "onlyoffice"
-local fileManager = "ghostty -e spf"
+local fileManager = terminal .. " -e yazi"
 local altFileManager = "nautilus"
-local editor = "code"
-local altEditor = "ghostty -e nvim"
+local altEditor = "neovim"
+local editor = terminal .. " -e nvim"
 local calculator = "gnome-calculator"
 local launcher = "tofi-drun --drun-launch=true"
 local musicPlayer = "pear-desktop"
