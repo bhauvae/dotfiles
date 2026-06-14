@@ -1,6 +1,3 @@
--- lua/config/options.lua
--- Core Neovim options for LazyVim
-
 local opt = vim.opt
 
 ----------------------------------------------------------------------------------------------------
@@ -9,19 +6,13 @@ local opt = vim.opt
 
 opt.number = true -- Absolute line numbers
 opt.relativenumber = true -- Relative line numbers (flip to false if you hate them)
-opt.cursorline = true -- Highlight current line
 
-opt.signcolumn = "yes" -- Always show sign column (LSP, git, diagnostics)
-opt.colorcolumn = "100" -- Visual ruler at column 100
 opt.wrap = false -- Don't soft-wrap lines
 opt.scrolloff = 8 -- Keep lines above/below cursor
 opt.sidescrolloff = 8 -- Keep columns left/right of cursor
 
 opt.termguicolors = true -- 24-bit colors
 opt.showmode = false -- Don't show mode (statusline handles it)
-opt.pumheight = 12 -- Max height of completion menu
-opt.pumblend = 10 -- Slight transparency for completion menu
-opt.winblend = 0 -- Floating window transparency
 
 opt.conceallevel = 2 -- Good for Markdown / Obsidian-style notes
 opt.concealcursor = "" -- Show markup on cursor line as well
@@ -90,38 +81,6 @@ opt.autowrite = true -- Don't auto-write on various events (LazyVim handles some
 opt.updatetime = 200 -- Default is 4000; 200-300 feels snappy without being noisy
 
 ----------------------------------------------------------------------------------------------------
--- Completion & Cmdline
-----------------------------------------------------------------------------------------------------
-
--- Recommended for modern completion engines (blink.cmp / nvim-cmp)
-opt.completeopt = { "menu", "menuone", "noselect" }
-
-opt.wildmenu = true
-opt.wildmode = "longest:full,full"
-opt.wildignorecase = true
-
-opt.timeoutlen = 500 -- Mapped sequence timeout (space-which-key etc)
-opt.ttimeoutlen = 0 -- No delay for keycode timeout (feel free to bump if needed)
-
-----------------------------------------------------------------------------------------------------
--- Folding (Tree-sitter)
-----------------------------------------------------------------------------------------------------
-
-opt.foldmethod = "expr"
-opt.foldexpr = "v:lua.vim.treesitter.foldexpr()"
-opt.foldenable = true
-opt.foldlevel = 99 -- Open all folds by default
-opt.foldlevelstart = 99
-
-----------------------------------------------------------------------------------------------------
--- Diff
-----------------------------------------------------------------------------------------------------
-
-opt.diffopt:append("vertical") -- Vertical diffs
-opt.diffopt:append("algorithm:patience")
-opt.diffopt:append("linematch:60") -- Better diff matching
-
-----------------------------------------------------------------------------------------------------
 -- Misc
 ----------------------------------------------------------------------------------------------------
 
@@ -129,9 +88,5 @@ opt.errorbells = false -- No bell on errors
 opt.shortmess:append("c") -- Cleaner messages
 opt.encoding = "utf-8"
 
--- Make gf search into subfolders
-opt.path:append("**")
-
--- Grep
 opt.grepprg = "rg --vimgrep"
 opt.grepformat = "%f:%l:%c:%m"

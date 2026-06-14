@@ -10,16 +10,19 @@
 
 {
    "$schema": "https://vicinae.com/schemas/config.json",
-   "close_on_focus_loss": true,
+   "close_on_focus_loss": false,
+   "pop_to_root_on_close": true,
    "activate_on_single_click": true,
    "font": {
       "normal": {
-         "family": "Monospace"
+         "family": "Monospace",
+         "size": 10
       }
    },
    "theme": {
       "dark": {
-         "name": "catppuccin-mocha"
+         "name": "catppuccin-mocha",
+         "icon_theme": "Adwaita"
       }
    },
    "telemetry": {
@@ -59,6 +62,13 @@
       },
       "raycast-compat": {
          "enabled": true
+      },
+      "system": {
+         "entrypoints": {
+            "browse-apps": {
+               "enabled": true
+            }
+         }
       },
       "theme": {
          "enabled": false

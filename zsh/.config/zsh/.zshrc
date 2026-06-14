@@ -50,8 +50,6 @@ source "$ZDOTDIR/plugins.zsh"
 
 # fzf configuration
 source "$ZDOTDIR/fzf.zsh"
-
-
 # =========================================================
 # Completion
 # =========================================================
@@ -79,3 +77,5 @@ source "$ZDOTDIR/bindings.zsh"
 
 
 source /usr/share/nvm/init-nvm.sh
+
+

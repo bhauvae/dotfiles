@@ -14,14 +14,14 @@
         "enableSessionSearch": true,
         "enableSettingsSearch": true,
         "enableWindowsSearch": true,
-        "iconMode": "tabler",
+        "iconMode": "native",
         "ignoreMouseInput": false,
         "overviewLayer": false,
         "pinnedApps": [
         ],
-        "position": "center",
+        "position": "follow_bar",
         "screenshotAnnotationTool": "",
-        "showCategories": true,
+        "showCategories": false,
         "showIconBackground": false,
         "sortByMostUsed": true,
         "terminalCommand": "alacritty -e",
@@ -65,7 +65,7 @@
         "mouseWheelAction": "none",
         "mouseWheelWrap": true,
         "outerCorners": false,
-        "position": "bottom",
+        "position": "top",
         "reverseScroll": false,
         "rightClickAction": "controlCenter",
         "rightClickCommand": "",
@@ -109,7 +109,7 @@
                     "followFocusedScreen": false,
                     "fontWeight": "bold",
                     "groupedBorderOpacity": 1,
-                    "hideUnoccupied": true,
+                    "hideUnoccupied": false,
                     "iconScale": 0.8,
                     "id": "Workspace",
                     "labelMode": "none",
@@ -117,7 +117,7 @@
                     "pillSize": 0.6,
                     "showApplications": false,
                     "showApplicationsHover": false,
-                    "showBadge": true,
+                    "showBadge": false,
                     "showLabelsOnlyWhenOccupied": false,
                     "unfocusedIconsOpacity": 1
                 },
@@ -152,11 +152,11 @@
                 },
                 {
                     "deviceNativePath": "BAT0",
-                    "displayMode": "graphic-clean",
+                    "displayMode": "icon-always",
                     "hideIfIdle": false,
                     "hideIfNotDetected": true,
                     "id": "Battery",
-                    "showNoctaliaPerformance": false,
+                    "showNoctaliaPerformance": true,
                     "showPowerProfiles": true
                 }
             ]
@@ -165,7 +165,7 @@
     "brightness": {
         "backlightDeviceMappings": [
         ],
-        "brightnessStep": 5,
+        "brightnessStep": 2,
         "enableDdcSupport": false,
         "enforceMinimum": true
     },
@@ -187,7 +187,7 @@
     },
     "colorSchemes": {
         "darkMode": true,
-        "generationMethod": "tonal-spot",
+        "generationMethod": "monochrome",
         "manualSunrise": "06:30",
         "manualSunset": "18:30",
         "monitorForColors": "",
@@ -356,7 +356,7 @@
         "clockFormat": "hh\\nmm",
         "clockStyle": "digital",
         "compactLockScreen": false,
-        "dimmerOpacity": 0.25,
+        "dimmerOpacity": 0.2,
         "enableBlurBehind": false,
         "enableLockScreenCountdown": true,
         "enableLockScreenMediaControls": true,
@@ -390,8 +390,8 @@
         "language": "",
         "lockOnSuspend": true,
         "lockScreenAnimations": false,
-        "lockScreenBlur": 1,
-        "lockScreenCountdownDuration": 10000,
+        "lockScreenBlur": 0,
+        "lockScreenCountdownDuration": 5000,
         "lockScreenMonitors": [
         ],
         "lockScreenTint": 0.75,
@@ -432,7 +432,7 @@
         "resumeScreenOffCommand": "",
         "resumeSuspendCommand": "",
         "screenOffCommand": "",
-        "screenOffTimeout": 600,
+        "screenOffTimeout": 594,
         "suspendCommand": "",
         "suspendTimeout": 1800
     },
@@ -460,7 +460,7 @@
         "bluetoothRssiPollingEnabled": false,
         "disableDiscoverability": false,
         "networkPanelView": "wifi",
-        "wifiDetailsViewMode": "grid"
+        "wifiDetailsViewMode": "list"
     },
     "nightLight": {
         "autoSchedule": false,
@@ -527,7 +527,7 @@
     },
     "sessionMenu": {
         "countdownDuration": 10000,
-        "enableCountdown": true,
+        "enableCountdown": false,
         "largeButtonsLayout": "grid",
         "largeButtonsStyle": true,
         "position": "center",

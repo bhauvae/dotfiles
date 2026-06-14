@@ -1,6 +1,3 @@
--- bindings.lua
--- Hyprland Lua keybinds with dispatcher objects and Noctalia shell IPC.
-
 ----------------------------
 -- Helpers / base commands
 ----------------------------
@@ -40,14 +37,11 @@ local calculator = "gnome-calculator"
 local launcher = "tofi-drun --drun-launch=true"
 local musicPlayer = "pear-desktop"
 
--- Noctalia workspace overview plugin.[web:78]
-local quickshellOverview = "qs ipc -c overview call overview toggle"
-
 ----------------------------
 -- Layout toggle helpers
 ----------------------------
 
--- Toggle between dwindle and scrolling layouts with a notification.[web:129][web:138][web:139]
+-- Toggle between dwindle and scrolling layouts with a notification.
 local function toggle_layout_dwindle_scrolling()
 	local current = hl.get_config("general.layout")
 	local new_layout
@@ -98,18 +92,13 @@ hl.bind(mainMod .. " + SHIFT + M", cmd(musicPlayer), { description = "Launch mus
 ----------------------------
 
 -- Focus scratchpad special workspace.
-hl.bind(
-	"SUPER + grave",
-	hl.dsp.workspace.toggle_special("scratchpad"),
-	{ description = "Focus scratchpad special workspace" }
-)
-
--- Move active window to scratchpad (and follow it).
-hl.bind(
-	mainMod .. " + SHIFT + grave",
-	hl.dsp.window.move({ workspace = "special:scratchpad", follow = true }),
-	{ description = "Move focused window to scratchpad workspace" }
-)
+for i = 1, 9 do
+	hl.bind(
+		mainMod .. " + grave + " .. i,
+		hl.dsp.workspace.toggle_special(i),
+		{ description = "Focus scratchpad special workspace " .. i }
+	)
+end
 
 ----------------------------
 -- UI / launcher
@@ -128,17 +117,17 @@ hl.bind(
 	{ description = "Toggle Vicinae clipboard history" }
 )
 
--- SUPER+SHIFT+V: Noctalia audio panel toggle.[web:90]
-hl.bind(mainMod .. " + SHIFT + V", noct("plugin:clipper toggle"), { description = "Toggle Noctalia volume panel" })
+hl.bind(mainMod .. " + SHIFT + V", noct("plugin:clipper toggle"), { description = "Toggle Noctalia clipper" })
 
--- Workspace overview (Noctalia plugin).[web:78]
-hl.bind(mainMod .. " + TAB", cmd(quickshellOverview), { description = "Toggle workspace overview" })
+hl.bind(mainMod .. " + TAB", function()
+	hl.plugin.scrolloverview.overview("toggle")
+end, { description = "Toggle workspace overview" })
 
 ----------------------------
 -- Noctalia shell functions
 ----------------------------
 
--- Ctrl+Alt+Delete → Noctalia session menu (lock/suspend etc.).[web:89]
+-- Ctrl+Alt+Delete → Noctalia session menu (lock/suspend etc.).
 hl.bind(
 	"CTRL + ALT + DELETE",
 	noct("sessionMenu toggle"),
@@ -156,12 +145,12 @@ hl.bind(
 -- Window control
 ----------------------------
 
--- Soft close / kill active window.[web:110]
+-- Soft close / kill active window.
 hl.bind(mainMod .. " + Q", hl.dsp.window.close(), { description = "Close focused window (graceful)" })
 
 hl.bind(mainMod .. " + SHIFT + Q", hl.dsp.window.kill(), { description = "Kill focused window (force)" })
 
--- Fullscreen / maximized.[web:125][web:135]
+-- Fullscreen / maximized.
 hl.bind(
 	mainMod .. " + F",
 	hl.dsp.window.fullscreen({ mode = "fullscreen", action = "toggle" }),
@@ -472,7 +461,7 @@ end
 -- Move to workspace / monitor helpers
 ----------------------------
 
--- Relative workspaces on current monitor (m±1) for the window.[web:116][web:120]
+-- Relative workspaces on current monitor (m±1) for the window.
 hl.bind(
 	mainMod .. " + CTRL + up",
 	hl.dsp.window.move({ workspace = "m-1", follow = true }),
@@ -619,7 +608,7 @@ hl.bind(
 	{ description = "Screenshot current screen (Noctalia screenshot plugin)" }
 )
 hl.bind(
-	"SUPER + Print",
+	"CTRL + ALT + S",
 	noct("plugin:screen-toolkit toggle"),
 	{ description = "Screenshot current screen (Noctalia screenshot plugin)" }
 )

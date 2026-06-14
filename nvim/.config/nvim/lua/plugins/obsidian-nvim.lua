@@ -1,10 +1,11 @@
 return {
   "obsidian-nvim/obsidian.nvim",
-  version = "*", -- use latest release, remove to use latest commit
-  ---@module 'obsidian'
-  ---@type obsidian.config
+  version = "*",
   opts = {
-    legacy_commands = false, -- this will be removed in 4.0.0
+    legacy_commands = false,
+    ui = {
+      enable = true,
+    },
     workspaces = {
       {
         name = "notes",

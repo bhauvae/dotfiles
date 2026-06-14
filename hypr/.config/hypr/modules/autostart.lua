@@ -8,14 +8,9 @@
 -- Or execute your favorite apps at launch like this:
 --
 hl.on("hyprland.start", function()
-  hl.exec_cmd("vicinae server")
+	hl.exec_cmd("vicinae server")
 
-  hl.exec_cmd("qs -c noctalia-shell")
+	hl.exec_cmd("qs -c noctalia-shell")
 
-  hl.exec_cmd("snappy-switcher --daemon")
-
-
-
-
-  hl.exec_cmd("qs -c overview")
+	hl.exec_cmd("snappy-switcher --daemon")
 end)
