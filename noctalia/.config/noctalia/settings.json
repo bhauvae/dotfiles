@@ -42,13 +42,13 @@
     "bar": {
         "autoHideDelay": 500,
         "autoShowDelay": 0,
-        "backgroundOpacity": 0.73,
+        "backgroundOpacity": 0.93,
         "barType": "simple",
         "capsuleColorKey": "none",
         "capsuleOpacity": 1,
         "contentPadding": 2,
         "density": "compact",
-        "displayMode": "always_visible",
+        "displayMode": "auto_hide",
         "enableExclusionZoneInset": false,
         "fontScale": 0.9,
         "frameRadius": 12,
@@ -65,7 +65,7 @@
         "mouseWheelAction": "none",
         "mouseWheelWrap": true,
         "outerCorners": false,
-        "position": "top",
+        "position": "bottom",
         "reverseScroll": false,
         "rightClickAction": "controlCenter",
         "rightClickCommand": "",
@@ -75,7 +75,7 @@
         "showCapsule": false,
         "showOnWorkspaceSwitch": false,
         "showOutline": false,
-        "useSeparateOpacity": false,
+        "useSeparateOpacity": true,
         "widgetSpacing": 0,
         "widgets": {
             "center": [
