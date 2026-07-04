@@ -1,0 +1,12 @@
+2026-06-27T05:22:27.815581Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=21554
+2026-06-27T05:22:27.815630Z  INFO herdr::client: connecting to server path=/home/bhavya/.config/herdr/herdr-client.sock
+2026-06-27T05:22:28.024180Z  INFO herdr::client: handshake succeeded version=14 encoding=SemanticFrame
+2026-06-27T05:34:28.944912Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=28865
+2026-06-27T05:34:28.944956Z  INFO herdr::client: connecting to server path=/home/bhavya/.config/herdr/herdr-client.sock
+2026-06-27T05:34:29.194068Z  INFO herdr::client: handshake succeeded version=14 encoding=SemanticFrame
+2026-06-27T05:35:38.759936Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=30024
+2026-06-27T05:35:38.759986Z  INFO herdr::client: connecting to server path=/home/bhavya/.config/herdr/herdr-client.sock
+2026-06-27T05:35:38.966640Z  INFO herdr::client: handshake succeeded version=14 encoding=SemanticFrame
+2026-06-27T05:37:31.149031Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=32202
+2026-06-27T05:37:31.149074Z  INFO herdr::client: connecting to server path=/home/bhavya/.config/herdr/herdr-client.sock
+2026-06-27T05:37:31.204517Z  INFO herdr::client: handshake succeeded version=14 encoding=SemanticFrame

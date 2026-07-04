@@ -1,0 +1,24 @@
+onboarding = false
+[experimental]
+pane_history = false
+
+[theme]
+name = "terminal"
+auto_switch = false
+
+[ui]
+sidebar_width = 0
+sidebar_min_width = 18
+sidebar_max_width = 36
+mobile_width_threshold = 64
+mouse_capture = true
+right_click_passthrough_modifier = ""
+redraw_on_focus_gained = true
+mouse_scroll_lines = 3
+confirm_close = true
+prompt_new_tab_name = true
+pane_borders = true
+pane_gaps = true
+show_agent_labels_on_pane_borders = false
+agent_panel_sort = "spaces"
+accent = "cyan"

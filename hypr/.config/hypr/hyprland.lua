@@ -5,6 +5,6 @@ require("modules.env")
 require("modules.inputs")
 require("modules.misc")
 require("modules.monitors")
-require("modules.permissions")
 require("modules.rules")
 require("modules.plugins")
+

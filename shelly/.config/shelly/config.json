@@ -14,12 +14,12 @@
   "WindowHeight": 600,
   "DefaultView": "HomeScreen",
   "UseKdeTheme": false,
-  "UseOldMenu": false,
-  "TrayEnabled": true,
+  "UseOldMenu": true,
+  "TrayEnabled": false,
   "TrayCheckIntervalHours": 12,
   "NoConfirm": false,
   "NewInstall": false,
-  "CurrentVersion": "2.3.2.5",
+  "CurrentVersion": "2.3.3.4",
   "UseWeeklySchedule": false,
   "DaysOfWeek": [],
   "Time": null,
@@ -33,7 +33,7 @@
   "TrayUpdatesIconPath": "",
   "DefaultPageDropDown": 0,
   "SuppressFingerprintWarning": false,
-  "RecommendedEnabled": false,
+  "RecommendedEnabled": true,
   "ProgressBarStyle": "Blocks",
   "ProgressBarFps": 7,
   "ProgressBarWidth": 24,
@@ -53,5 +53,6 @@
   "AurRemoveCascadeDelete": true,
   "AurRemoveShowHidden": false,
   "AurUpdateRunChecks": false,
-  "AurUpdateShowHidden": false
+  "AurUpdateShowHidden": false,
+  "AppImageInstallPath": ""
 }

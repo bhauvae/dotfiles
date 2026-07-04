@@ -48,7 +48,7 @@
         "capsuleOpacity": 1,
         "contentPadding": 2,
         "density": "compact",
-        "displayMode": "auto_hide",
+        "displayMode": "always_visible",
         "enableExclusionZoneInset": false,
         "fontScale": 0.9,
         "frameRadius": 12,
@@ -65,7 +65,7 @@
         "mouseWheelAction": "none",
         "mouseWheelWrap": true,
         "outerCorners": false,
-        "position": "bottom",
+        "position": "top",
         "reverseScroll": false,
         "rightClickAction": "controlCenter",
         "rightClickCommand": "",
@@ -75,8 +75,8 @@
         "showCapsule": false,
         "showOnWorkspaceSwitch": false,
         "showOutline": false,
-        "useSeparateOpacity": true,
-        "widgetSpacing": 0,
+        "useSeparateOpacity": false,
+        "widgetSpacing": 6,
         "widgets": {
             "center": [
                 {
@@ -130,7 +130,7 @@
                     "showIcon": false,
                     "showText": true,
                     "textColor": "primary",
-                    "useFixedWidth": true
+                    "useFixedWidth": false
                 }
             ],
             "right": [
@@ -147,7 +147,7 @@
                     "showProgressRing": false,
                     "showVisualizer": false,
                     "textColor": "none",
-                    "useFixedWidth": true,
+                    "useFixedWidth": false,
                     "visualizerType": "linear"
                 },
                 {
@@ -351,14 +351,14 @@
         "animationDisabled": true,
         "animationSpeed": 1,
         "autoStartAuth": false,
-        "avatarImage": "/home/bhavya/Pictures/wallapapers/a_sculpture_of_a_man_with_a_face_on_his_head.png",
+        "avatarImage": "/home/bhavya/Pictures/wallapapers/1118full-go,-go-second-time-virgin-screenshot.jpg",
         "boxRadiusRatio": 1,
         "clockFormat": "hh\\nmm",
         "clockStyle": "digital",
         "compactLockScreen": false,
         "dimmerOpacity": 0.2,
         "enableBlurBehind": false,
-        "enableLockScreenCountdown": true,
+        "enableLockScreenCountdown": false,
         "enableLockScreenMediaControls": true,
         "enableShadows": false,
         "forceBlackScreenCorners": false,
@@ -390,7 +390,7 @@
         "language": "",
         "lockOnSuspend": true,
         "lockScreenAnimations": false,
-        "lockScreenBlur": 0,
+        "lockScreenBlur": 0.2,
         "lockScreenCountdownDuration": 5000,
         "lockScreenMonitors": [
         ],
@@ -683,7 +683,7 @@
         "showHiddenFiles": false,
         "skipStartupTransition": true,
         "solidColor": "#1a1a2e",
-        "sortOrder": "date_asc",
+        "sortOrder": "name_desc",
         "transitionDuration": 1500,
         "transitionEdgeSmoothness": 0.05,
         "transitionType": [

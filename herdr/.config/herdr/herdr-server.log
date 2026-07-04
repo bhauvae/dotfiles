@@ -1,0 +1,57 @@
+2026-06-27T05:22:27.666165Z  INFO herdr::api::server: api server listening path=/home/bhavya/.config/herdr/herdr.sock
+2026-06-27T05:22:27.668038Z  INFO herdr::app: using pane scrollback configuration pane_scrollback_limit_bytes=10000000
+2026-06-27T05:22:27.767893Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T05:22:27.768081Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=1 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-06-27T05:22:27.770099Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=1 pid=21572
+2026-06-27T05:22:27.770364Z  INFO herdr::logging: workspace created event="workspace.create" subsystem="workspace" outcome="ok" workspace_id="w1" pane_id=1
+2026-06-27T05:22:27.770386Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1"
+2026-06-27T05:22:27.770432Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1" tab_id="w1:t1"
+2026-06-27T05:22:27.770476Z  INFO herdr::server::headless: created startup workspace cwd=/home/bhavya
+2026-06-27T05:22:27.770612Z  INFO herdr::server::headless: client protocol socket listening path=/home/bhavya/.config/herdr/herdr-client.sock
+2026-06-27T05:22:27.770663Z  INFO herdr::server::headless: herdr server started api_socket=/home/bhavya/.config/herdr/herdr.sock client_socket=/home/bhavya/.config/herdr/herdr-client.sock
+2026-06-27T05:22:27.770698Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="server" outcome="started" pid=21555
+2026-06-27T05:22:28.024226Z  INFO herdr::server::headless: client connected client_id=2 cols=95 rows=50 cell_width_px=0 cell_height_px=0 render_encoding=SemanticFrame
+2026-06-27T05:22:32.772763Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/bhavya/.config/herdr/session.json workspaces=1
+2026-06-27T05:24:59.967470Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/bhavya/.config/herdr/session.json workspaces=1
+2026-06-27T05:27:52.421819Z  INFO herdr::server::headless: client disconnected client_id=2
+2026-06-27T05:34:29.194154Z  INFO herdr::server::headless: client connected client_id=4 cols=95 rows=50 cell_width_px=0 cell_height_px=0 render_encoding=SemanticFrame
+2026-06-27T05:35:07.652849Z  INFO herdr::server::headless: client disconnected client_id=4
+2026-06-27T05:35:36.493325Z  INFO herdr::server::headless: server shutdown initiated
+2026-06-27T05:35:36.543433Z  INFO herdr::server::headless: completing server shutdown
+2026-06-27T05:35:36.543869Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/bhavya/.config/herdr/session.json workspaces=1
+2026-06-27T05:35:36.543893Z  INFO herdr::server::headless: headless server exiting
+2026-06-27T05:35:36.545300Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=1 status="ExitStatus { code: 1, signal: None }"
+2026-06-27T05:35:36.551595Z  INFO herdr::pane: pane session terminated pane=1 pid=21572 signal=Hangup
+2026-06-27T05:35:36.552900Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="server" outcome="completed" pid=21555
+2026-06-27T05:35:38.610581Z  INFO herdr::api::server: api server listening path=/home/bhavya/.config/herdr/herdr.sock
+2026-06-27T05:35:38.612587Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=1 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-06-27T05:35:38.614050Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=1 pid=30039
+2026-06-27T05:35:38.614542Z  INFO herdr::logging: session restore evaluated event="persist.restore" subsystem="persist" outcome="ok" workspaces=1
+2026-06-27T05:35:38.614568Z  INFO herdr::app: using pane scrollback configuration pane_scrollback_limit_bytes=10000000
+2026-06-27T05:35:38.711898Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T05:35:38.711939Z  INFO herdr::server::headless: restored session already has workspaces; ignoring startup cwd cwd=/home/bhavya
+2026-06-27T05:35:38.712064Z  INFO herdr::server::headless: client protocol socket listening path=/home/bhavya/.config/herdr/herdr-client.sock
+2026-06-27T05:35:38.712150Z  INFO herdr::server::headless: herdr server started api_socket=/home/bhavya/.config/herdr/herdr.sock client_socket=/home/bhavya/.config/herdr/herdr-client.sock
+2026-06-27T05:35:38.712210Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="server" outcome="started" pid=30025
+2026-06-27T05:35:38.966684Z  INFO herdr::server::headless: client connected client_id=2 cols=95 rows=50 cell_width_px=0 cell_height_px=0 render_encoding=SemanticFrame
+2026-06-27T05:37:27.174808Z  INFO herdr::server::headless: client disconnected client_id=2
+2026-06-27T05:37:31.204728Z  INFO herdr::server::headless: client connected client_id=4 cols=95 rows=50 cell_width_px=0 cell_height_px=0 render_encoding=SemanticFrame
+2026-06-27T05:38:49.356149Z  INFO herdr::server::headless: client disconnected client_id=4
+2026-06-27T06:05:38.713092Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T09:03:15.108971Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T10:18:48.548985Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T10:48:48.551162Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T11:18:48.552752Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T11:48:48.554072Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T12:18:48.556203Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T12:48:48.557574Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T13:18:48.559079Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T13:48:48.560768Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T14:18:48.562736Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T14:48:48.564728Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T15:18:48.565466Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T15:48:48.567084Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T16:25:01.593146Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T16:55:01.594586Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T17:25:02.464907Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-06-27T17:55:02.465632Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"

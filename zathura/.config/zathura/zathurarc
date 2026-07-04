@@ -1,70 +1,274 @@
-# Open document in fit-width mode by default
-set adjust-open "best-fit"
+#
+# =============================================================================
+# Zathura - Power User Configuration
+# =============================================================================
+#
 
-# One page per row by default
+# -----------------------------------------------------------------------------
+# General
+# -----------------------------------------------------------------------------
+
+set database sqlite
+set selection-clipboard clipboard
+set selection-notification false
+
+set incremental-search true
+set statusbar-home-tilde true
+
+set window-title-page true
+set window-title-basename true
+set window-title-home-tilde true
+
+set guioptions ""
+set font "JetBrainsMono Nerd Font 10"
+
+set mouse-hide-while-typing true
+
+# -----------------------------------------------------------------------------
+# Opening Behaviour
+# -----------------------------------------------------------------------------
+
+set adjust-open best-fit
+
+# -----------------------------------------------------------------------------
+# Pages
+# -----------------------------------------------------------------------------
+
 set pages-per-row 1
+set first-page-column 1
+set page-right-to-left false
 
-# Stop at page boundries
-set scroll-page-aware "true"
-set smooth-scroll "true"
+# -----------------------------------------------------------------------------
+# Scrolling
+# -----------------------------------------------------------------------------
+
+set smooth-scroll true
+set scroll-page-aware true
 set scroll-full-overlap 0.01
 set scroll-step 100
 
-# Zoom settings
+# -----------------------------------------------------------------------------
+# Zoom
+# -----------------------------------------------------------------------------
+
 set zoom-min 10
-set guioptions ""
+set zoom-max 1000
+set zoom-step 10
 
-set render-loading "false"
-set font "JetBrainsMono NF"
-unmap f
-map f toggle_fullscreen
-unmap a
-map a toggle_statusbar
-map [fullscreen] f toggle_fullscreen
+# -----------------------------------------------------------------------------
+# Rendering
+# -----------------------------------------------------------------------------
 
+set render-loading false
 
-set window-title-page true
+# -----------------------------------------------------------------------------
+# Recolor (Dark Mode)
+# -----------------------------------------------------------------------------
 
-# Colors
-set default-fg                rgba(202,211,245,1)
-set default-bg 			          rgba(36,39,58,1)
+set recolor true
+set recolor-reverse-video true
+set recolor-keephue true
 
-set completion-bg		          rgba(54,58,79,1)
-set completion-fg		          rgba(202,211,245,1)
-set completion-highlight-bg	  rgba(87,82,104,1)
-set completion-highlight-fg	  rgba(202,211,245,1)
-set completion-group-bg		    rgba(54,58,79,1)
-set completion-group-fg		    rgba(138,173,244,1)
+# -----------------------------------------------------------------------------
+# Theme (Catppuccin Mocha)
+# -----------------------------------------------------------------------------
+set default-fg                rgba(205,214,244,1)
+set default-bg                rgba(30,30,46,1)
 
-set statusbar-fg		          rgba(202,211,245,1)
-set statusbar-bg		          rgba(54,58,79,1)
+set completion-bg             rgba(49,50,68,1)
+set completion-fg             rgba(205,214,244,1)
+set completion-highlight-bg   rgba(203,166,247,1)
+set completion-highlight-fg   rgba(30,30,46,1)
+set completion-group-bg       rgba(24,24,37,1)
+set completion-group-fg       rgba(205,214,244,1)
 
-set notification-bg		        rgba(54,58,79,1)
-set notification-fg		        rgba(202,211,245,1)
-set notification-error-bg	    rgba(54,58,79,1)
-set notification-error-fg	    rgba(237,135,150,1)
-set notification-warning-bg	  rgba(54,58,79,1)
-set notification-warning-fg	  rgba(250,227,176,1)
+set statusbar-fg              rgba(205,214,244,1)
+set statusbar-bg              rgba(17,17,27,1)
+set inputbar-fg               rgba(205,214,244,1)
+set inputbar-bg               rgba(30,30,46,1)
 
-set inputbar-fg			          rgba(202,211,245,1)
-set inputbar-bg 		          rgba(54,58,79,1)
+set notification-bg           rgba(30,30,46,1)
+set notification-fg           rgba(205,214,244,1)
+set notification-error-bg     rgba(30,30,46,1)
+set notification-error-fg     rgba(243,139,168,1)
+set notification-warning-bg   rgba(30,30,46,1)
+set notification-warning-fg   rgba(249,226,175,1)
 
 set recolor                   "true"
-set recolor-lightcolor		    rgba(36,39,58,1)
-set recolor-darkcolor		      rgba(202,211,245,1)
+set recolor-lightcolor        rgba(30,30,46,1)
+set recolor-darkcolor         rgba(205,214,244,1)
 
-set index-fg			            rgba(202,211,245,1)
-set index-bg			            rgba(36,39,58,1)
-set index-active-fg		        rgba(202,211,245,1)
-set index-active-bg		        rgba(54,58,79,1)
+set index-fg                  rgba(205,214,244,1)
+set index-bg                  rgba(30,30,46,1)
+set index-active-fg           rgba(205,214,244,1)
+set index-active-bg           rgba(49,50,68,1)
 
-set render-loading-bg		      rgba(36,39,58,1)
-set render-loading-fg		      rgba(202,211,245,1)
+set render-loading-bg         rgba(30,30,46,1)
+set render-loading-fg         rgba(205,214,244,1)
 
-set highlight-color		        rgba(87,82,104,0.5)
-set highlight-fg              rgba(245,189,230,0.5)
-set highlight-active-color	  rgba(245,189,230,0.5)
+set highlight-color           rgba(147,153,178,0.3)
+set highlight-fg              rgba(205,214,244,1)
+set highlight-active-color    rgba(203,166,247,0.3)
+# -----------------------------------------------------------------------------
+# Keybindings
+# -----------------------------------------------------------------------------
 
-set recolor "false"
-set recolor-reverse-video "true"
-set recolor-keephue "true"
+#
+# Restore useful defaults
+#
+
+unmap f
+unmap a
+unmap r
+
+#
+# UI
+#
+
+map <F11> toggle_fullscreen
+map a toggle_statusbar
+map <Tab> toggle_index
+
+#
+# Reload
+#
+
+map R reload
+
+#
+# Recolor
+#
+
+map <C-n> recolor
+
+#
+# Rotation
+#
+
+map <C-r> rotate
+
+#
+# Zoom
+#
+
+map zi zoom in
+map zo zoom out
+map z0 zoom 100
+
+#
+# Width / Best-fit
+#
+
+map zw adjust_window width
+map zb adjust_window best-fit
+
+#
+# Quick page navigation
+#
+
+map J navigate next
+map K navigate previous
+
+#
+# Preserve Vim link hints on 'f'
+#
+# (No mapping required)
+
+# -----------------------------------------------------------------------------
+# Useful Defaults
+# -----------------------------------------------------------------------------
+
+#
+# Search
+#
+# /   search forward
+# ?   search backward
+# n   next result
+# N   previous result
+#
+
+#
+# Marks
+#
+# mA      create mark A
+# 'A      jump to mark A
+#
+
+#
+# Jump history
+#
+# Ctrl-o
+# Ctrl-i
+#
+
+#
+# Follow links
+#
+# f
+#
+
+#
+# Command mode
+#
+# :
+#
+
+#
+# Open document
+#
+# o
+#
+
+#
+# Save
+#
+# :write
+#
+
+#
+# Export attachments
+#
+# :export
+#
+
+#
+# Document info
+#
+# :info
+#
+
+#
+# Print
+#
+# :print
+#
+
+#
+# Dump current settings
+#
+# :dump
+#
+
+#
+# Refresh document
+#
+# R
+#
+
+#
+# Index
+#
+# Tab
+#
+
+#
+# Fullscreen
+#
+# F11
+#
+
+#
+# Clipboard
+#
+# Selected text copies directly to the system clipboard.
+#

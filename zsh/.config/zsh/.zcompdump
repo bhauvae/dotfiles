@@ -101,6 +101,7 @@ _comps=(
 'bat' '_bat'
 'batch' '_at'
 'baz' '_baz'
+'bear' '_bear'
 'beep' '_beep'
 'bg' '_jobs_bg'
 'bibtex' '_bibtex'
@@ -1879,7 +1880,6 @@ _comps=(
 'zeal' '_zeal'
 'zed' '_zed'
 'zegrep' '_grep'
-'zellij' '_zellij'
 'zen' '_webbrowser'
 'zf_chgrp' '_chown'
 'zf_chmod' '_chmod'
@@ -2088,23 +2088,23 @@ autoload -Uz _ab _afew _age _archlinux-java _atach \
             _ufw _uuidd _uuidgen _uuidparse _vipw \
             _virtualbox _vnstat _wdctl _wemux _wg-quick \
             _xdg-mime _xsel _yamllint _yarn _zcash-cli \
-            _zinit _zramctl _bat _bluetoothctl _bootctl \
-            _busctl _bwrap _cargo _coredumpctl _curl \
-            _deno _dotnet _eza _fd _flatpak \
-            _gh _ghostty _glow _hostnamectl _hyprctl \
-            _hyprpm _img2sixel _insmod _journalctl _kdeconnect \
-            _kernel-install _kitty _lf _localectl _loginctl \
-            _lsmod _machinectl _mkinitcpio _mpv _networkctl \
-            _ninja _oomctl _opencode _p11-kit _pacman \
-            _powerprofilesctl _pulseaudio _qpdf _resolvectl _rg \
-            _rmmod _run0 _rustup _sd_bus_address _sd_hosts_or_user_at_host \
-            _sd_machines _sd_outputmodes _sd_unit_files _sensors _sensors-detect \
-            _starship _systemctl _systemd _systemd-analyze _systemd-delta \
-            _systemd-hwdb _systemd-id128 _systemd-inhibit _systemd-nspawn _systemd-path \
-            _systemd-run _systemd-tmpfiles _timedatectl _trust _udevadm \
-            _udisks2 _upower _userdbctl _uv _varlinkctl \
-            _wl-copy _wl-paste _wpctl _ya _yay \
-            _yazi _yt-dlp _zathura _zellij _zoxide \
+            _zinit _zramctl _bat _bear _bluetoothctl \
+            _bootctl _busctl _bwrap _cargo _coredumpctl \
+            _curl _deno _dotnet _eza _fd \
+            _flatpak _gh _ghostty _glow _hostnamectl \
+            _hyprctl _hyprpm _img2sixel _insmod _journalctl \
+            _kdeconnect _kernel-install _kitty _lf _localectl \
+            _loginctl _lsmod _machinectl _mkinitcpio _mpv \
+            _networkctl _ninja _oomctl _opencode _p11-kit \
+            _pacman _powerprofilesctl _pulseaudio _qpdf _resolvectl \
+            _rg _rmmod _run0 _rustup _sd_bus_address \
+            _sd_hosts_or_user_at_host _sd_machines _sd_outputmodes _sd_unit_files _sensors \
+            _sensors-detect _starship _systemctl _systemd _systemd-analyze \
+            _systemd-delta _systemd-hwdb _systemd-id128 _systemd-inhibit _systemd-nspawn \
+            _systemd-path _systemd-run _systemd-tmpfiles _timedatectl _trust \
+            _udevadm _udisks2 _upower _userdbctl _uv \
+            _varlinkctl _wl-copy _wl-paste _wpctl _ya \
+            _yay _yazi _yt-dlp _zathura _zoxide \
             _cdr _all_labels _all_matches _alternative _approximate \
             _arg_compile _arguments _as_if _bash_completions _cache_invalid \
             _call_function _combination _complete _complete_debug _complete_help \
