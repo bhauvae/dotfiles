@@ -29,6 +29,3 @@ opt.writebackup = false -- Don't keep a backup when overwriting
 -- Misc
 ----------------------------------------------------------------------------------------------------
 opt.errorbells = false -- No bell on errors
-
--- Force sh for background tasks (Fixes image.nvim clearing bug in tmux when using zsh/fish)
-opt.shell = "/bin/sh"
