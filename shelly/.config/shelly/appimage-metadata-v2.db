@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "helium-0.13.3.1-x86_64",
+    "DesktopName": "Helium",
+    "Version": "0.13.3.1",
+    "IconName": "helium-0.13.3.1-x86_64",
+    "Description": "Access the Internet",
+    "SizeOnDisk": 151300600,
+    "UpdateURl": "",
+    "RawUpdateInfo": "gh-releases-zsync|imputnet|helium-linux|latest|helium-*-x86_64.AppImage.zsync",
+    "RepoOwner": null,
+    "RepoName": null,
+    "UpdateType": 1,
+    "AllowPrerelease": false,
+    "CommandLineArgs": null,
+    "Path": "/home/bhavya/.local/bin/helium-0.13.3.1-x86_64.AppImage"
+  },
+  {
+    "Name": "krita-5.3.2.1-x86_64",
+    "DesktopName": "Krita",
+    "Version": "5.3.2.1",
+    "IconName": "krita-5.3.2.1-x86_64",
+    "Description": "Digital Painting",
+    "SizeOnDisk": 370731512,
+    "UpdateURl": "",
+    "RawUpdateInfo": "zsync|https://download.kde.org/stable/krita/updates/Krita-Stable-x86_64.appimage.zsync",
+    "RepoOwner": null,
+    "RepoName": null,
+    "UpdateType": 1,
+    "AllowPrerelease": false,
+    "CommandLineArgs": " %F",
+    "Path": "/home/bhavya/.local/bin/krita-5.3.2.1-x86_64.AppImage"
+  }
+]
